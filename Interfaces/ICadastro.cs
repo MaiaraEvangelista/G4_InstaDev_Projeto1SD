@@ -8,6 +8,6 @@ namespace G4_InstaDev_Projeto1SD.Interfaces
          void Create (Cadastro c);
          void Remove (string username);
          List<Cadastro> ReadAll();
-         void Uptade ();
+         void Uptade (Cadastro c);
     }
 }

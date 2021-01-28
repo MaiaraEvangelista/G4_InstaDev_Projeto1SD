@@ -40,19 +40,27 @@ namespace G4_InstaDev_Projeto1SD.Models
                 cadastro.Nome     = linha[1];
                 cadastro.Username = linha[2];
                 cadastro.Senha    = linha[3];
-                
+
+                cadastros.Add(cadastro);
+
             }
             return cadastros;
         }
 
         public void Remove(string username)
         {
-            throw new System.NotImplementedException();
+            List<string> linhas = ReadAllLinesCSV(PATH);
+            linhas.RemoveAll(x=> x.Split(";")[0] == username.ToString());
+            RewriteCSV (PATH, linhas);
         }
 
-        public void Uptade()
+        public void Uptade(Cadastro c)
         {
-            throw new System.NotImplementedException();
+            List<string> linhas = ReadAllLinesCSV(PATH);
+            linhas.RemoveAll(x=> x.Split(";")[0] == c.Username.ToString());
+            linhas.Add(Prepare (c));
+            RewriteCSV (PATH, linhas);
+
         }
     }
 }
