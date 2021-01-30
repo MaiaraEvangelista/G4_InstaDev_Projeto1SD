@@ -11,13 +11,13 @@ namespace G4_InstaDev_Projeto1SD.Models
         public string Username { get; set; }
         public string Senha { get; set; }
 
-        private const string PATH = "Database/Cadastro.csv";
+        public const string PATH = "Database/Cadastro.csv";
 
         public string Prepare (Cadastro c){
             return $"{c.Email}, {c.Nome}, {c.Username}, {c.Senha}";
         }
         public Cadastro (){
-            CreateFolderAndFile(PATH);
+            CreateFileAndFolder(PATH);
         }
 
         public void Create(Cadastro c)

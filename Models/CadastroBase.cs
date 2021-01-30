@@ -6,30 +6,29 @@ namespace G4_InstaDev_Projeto1SD.Models
 {
     public class CadastroBase
     {
-        public void CreateFolderAndFile (string path){
-            string folder = path.Split(";")[0];
+        public void CreateFileAndFolder (string path){
+            string folder = path.Split("/")[0];
 
-            if(Directory.Exists(folder)){
+            if(!Directory.Exists(folder)){
                 Directory.CreateDirectory(folder);
             }
-            if(File.Exists(path)){
+            if(!File.Exists(path)){
                 File.Create(path);
             }
         }
+        public List<string> ReadAllLinesCSV (string path){
+            List<string> linhas = new List<string> ();
 
-            public List<string> ReadAllLinesCSV (string path)
-            {
-                List<string> linhas = new List<string> ();
-               using (StreamReader file = new StreamReader (path))
+            using (StreamReader file = new StreamReader (path))
             {
                 string linha;
                 while ((linha = Console.ReadLine()) != null){
                     linhas.Add(linha);
                 }
             }
-                return linhas;    
-            }
-            public void RewriteCSV (string path, List<string> linhas){
+            return linhas;
+        }
+        public void RewriteCSV (string path, List<string> linhas){
             using (StreamWriter output = new StreamWriter (path))
             {
                 foreach (var item in linhas)
@@ -37,6 +36,6 @@ namespace G4_InstaDev_Projeto1SD.Models
                     output.Write (item + '\n');
                 }
             }
-        }
+        }   
     }
 }

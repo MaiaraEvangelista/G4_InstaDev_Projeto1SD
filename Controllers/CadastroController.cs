@@ -7,31 +7,33 @@ namespace G4_InstaDev_Projeto1SD.Controllers
 {
     public class CadastroController :Controller
     {
-        Cadastro CadastroModel = new Cadastro (); 
+        Cadastro CadastroModel1 = new Cadastro (); 
 
         [Route("Listar")]
         public IActionResult Index (){
-            ViewBag.Cadastros = CadastroModel.ReadAll();
+            ViewBag.Cadastros = CadastroModel1.ReadAll();
             return View(); 
         }
 
         [Route ("Cadastrar")]
         public IActionResult Cadastrao (IFormCollection form){
             Cadastro novoCadastro   = new Cadastro();
-            novoCadastro.Username = form["Username"];
+            novoCadastro.Username = form["Email"];
             novoCadastro.Nome     = form["Nome"];
+            novoCadastro.Username = form["Username"];
+            novoCadastro.Nome     = form["Senha"];
 
-            CadastroModel.Create(novoCadastro);
-            ViewBag.Cadastros = CadastroModel.ReadAll();
+            CadastroModel1.Create(novoCadastro);
+            ViewBag.Cadastros = CadastroModel1.ReadAll();
 
             return LocalRedirect ("~/Cadastro");
          }
 
-         [Route("{username}")]
+         [Route("{Id}")]
         public IActionResult Excluir (string username){
-            CadastroModel.Remove(username);
+            CadastroModel1.Remove(username);
 
-            ViewBag.Cadastros = CadastroModel.ReadAll();
+            ViewBag.Cadastros = CadastroModel1.ReadAll();
 
             return LocalRedirect("~/Cadastro/Listar");
         }
