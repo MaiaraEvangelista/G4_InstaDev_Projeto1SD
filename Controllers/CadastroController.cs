@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace G4_InstaDev_Projeto1SD.Controllers
 {
+    [Route("Cadastro")]
     public class CadastroController :Controller
     {
         Cadastro CadastroModel1 = new Cadastro (); 
