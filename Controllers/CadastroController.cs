@@ -29,7 +29,6 @@ namespace G4_InstaDev_Projeto1SD.Controllers
             return LocalRedirect ("~/Cadastro");
          }
 
-         [Route("{Id}")]
         public IActionResult Excluir (string username){
             CadastroModel1.Remove(username);
 
