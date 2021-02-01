@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace G4_InstaDev_Projeto1SD.Controllers
 {
+    [Route("Cadastro")]
     public class CadastroController :Controller
     {
         Cadastro CadastroModel1 = new Cadastro (); 
@@ -18,15 +19,15 @@ namespace G4_InstaDev_Projeto1SD.Controllers
         [Route ("Cadastrar")]
         public IActionResult Cadastrao (IFormCollection form){
             Cadastro novoCadastro   = new Cadastro();
-            novoCadastro.Username = form["Email"];
+            novoCadastro.Email = form["Email"];
             novoCadastro.Nome     = form["Nome"];
             novoCadastro.Username = form["Username"];
-            novoCadastro.Nome     = form["Senha"];
+            novoCadastro.Senha     = form["Senha"];
 
             CadastroModel1.Create(novoCadastro);
             ViewBag.Cadastros = CadastroModel1.ReadAll();
 
-            return LocalRedirect ("~/Cadastro");
+            return LocalRedirect ("~/Cadastro/Listar");
          }
 
         public IActionResult Excluir (string username){

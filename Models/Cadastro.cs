@@ -14,7 +14,7 @@ namespace G4_InstaDev_Projeto1SD.Models
         public const string PATH = "Database/Cadastro.csv";
 
         public string Prepare (Cadastro c){
-            return $"{c.Email}, {c.Nome}, {c.Username}, {c.Senha}";
+            return $"{c.Email};{c.Nome};{c.Username};{c.Senha}";
         }
         public Cadastro (){
             CreateFileAndFolder(PATH);
