@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using InstaDev.Models;
+using G4_InstaDev_Projeto1SD.Models;
 
-namespace InstaDev.Controllers
+namespace G4_InstaDev_Projeto1SD.Controllers
 {
     public class HomeController : Controller
     {
@@ -28,10 +28,5 @@ namespace InstaDev.Controllers
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
     }
 }

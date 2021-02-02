@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace G4_InstaDev_Projeto1SD.Models
+namespace G4_InstaDev_Projeto1SD.Models 
 {
-    public class Usuario
+    public class Usuario :CadastroBase
     {
         public int IdUsuario { get; set; }
 
@@ -16,36 +16,16 @@ namespace G4_InstaDev_Projeto1SD.Models
 
         public int Deletar{get; set;}
 
-        private const string PATH = "Database/Equipe.csv";
+        private const string PATH = "Database/Usuario.csv";
 
-         public Usuario()
-         {
-            // CreateFolderAndFile(PATH);
-         }
+        public Usuario(){
+            CreateFolderAndFile(PATH);
+        }
 
-         public void Create(Usuario u)
-         {
-             string[] linhas = {};
-             File.AppendAllLines(PATH, linhas);
-         }
-
-        
-
-       
-
-        public void Delete(int id)
-         {
-           //  List<string> linhas = ReadAllLineCSV();
-           //  {
-           //      linhas.RemoveAll(x => x.Split(";")[0] == id.ToString());
-                
-           //  }            
-         }
-
-       
-
-       
-
-      
+        //retirada
+        private void CreateFolderAndFile(string pATH)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace InstaDev
+namespace G4_InstaDev_Projeto1SD
 {
     public class Program
     {
