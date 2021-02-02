@@ -1,3 +1,7 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+
 namespace G4_InstaDev_Projeto1SD.Models
 {
     public class Usuario
@@ -12,22 +16,36 @@ namespace G4_InstaDev_Projeto1SD.Models
 
         public int Deletar{get; set;}
 
-        // public Usuario()
-        // {
-        //     CreateFolderAndFile(PATH);
-        // }
+        private const string PATH = "Database/Equipe.csv";
 
-        // public void Delete(int id)
-        // {
-        //     List<string> linhas = ReadAllLineCSV();
-        //     {
-        //         linhas.RemoveAll(x => x.Split(";")[0] == id.ToString());
-        //         RewriteCSV(PATH, linhas);
-        //     }            
-        // }
+         public Usuario()
+         {
+            // CreateFolderAndFile(PATH);
+         }
 
+         public void Create(Usuario u)
+         {
+             string[] linhas = {};
+             File.AppendAllLines(PATH, linhas);
+         }
 
+        
 
+       
 
+        public void Delete(int id)
+         {
+           //  List<string> linhas = ReadAllLineCSV();
+           //  {
+           //      linhas.RemoveAll(x => x.Split(";")[0] == id.ToString());
+                
+           //  }            
+         }
+
+       
+
+       
+
+      
     }
 }
