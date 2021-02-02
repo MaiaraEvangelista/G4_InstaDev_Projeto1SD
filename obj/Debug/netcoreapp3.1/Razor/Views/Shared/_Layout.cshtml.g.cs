@@ -127,9 +127,6 @@ using G4_InstaDev_Projeto1SD.Models;
 #nullable disable
                 WriteLiteral("\r\n        </main>\r\n    </div>\r\n   \r\n    ");
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "26cb878e62721347752d45e8d0dd0237cabc8f9510013", async() => {
-                WriteLiteral("\r\n        </main>\r\n    </div>\r\n\r\n");
-                WriteLiteral("    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ed57ac58b53308be1ea3967ed004b7dc840742fa10413", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

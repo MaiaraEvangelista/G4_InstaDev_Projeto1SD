@@ -109,3 +109,4 @@ C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDe
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.genruntimeconfig.cache
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.csproj.CopyComplete
 >>>>>>> a57f2810dfd131c72c24c39253feedd2f0995aaf
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs

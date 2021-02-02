@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\G4_InstaDev_Projeto1SD.csproj",
+  "FilePath": "c:\\Users\\adm\\Desktop\\G4_InstaDev_Projeto1SD\\G4_InstaDev_Projeto1SD.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,43 +14392,38 @@
   "RootNamespace": "G4_InstaDev_Projeto1SD",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Cadastro\\Index.cshtml",
-      "TargetPath": "Views\\Cadastro\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\adm\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-<<<<<<< HEAD
+      "FilePath": "c:\\Users\\adm\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\adm\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\adm\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Login\\Index.cshtml",
+      "TargetPath": "Views\\Login\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\adm\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Cadastro\\Index.cshtml",
       "TargetPath": "Views\\Cadastro\\Index.cshtml",
-=======
-      "FilePath": "c:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\adm\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\adm\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
->>>>>>> a57f2810dfd131c72c24c39253feedd2f0995aaf
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     }
   ],

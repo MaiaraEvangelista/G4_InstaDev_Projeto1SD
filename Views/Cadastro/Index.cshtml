@@ -31,7 +31,7 @@
             <div class="container2">
                 <div class="textoLoginCadastro">
                     <p>Tem uma conta?</p>
-                    <a href="#">Conecte-se</a>
+                    <a href="~/Login">Conecte-se</a>
                 </div>
             </div>
             <div class="container3">
@@ -63,7 +63,7 @@
                     <td>@cadastro.Nome</td>
                     <td>@cadastro.Username</td>
                     <td>@cadastro.Senha</td>
-                    <td><a asp-area="Link para excluir conta teste" asp-controller="Cadastro" asp-action="Excluir" asp-route-id="@cadastro.Username">Excluir</a></td>
+                    <td><a asp-area="Link para excluir conta" asp-controller="Cadastro" asp-action="Excluir" asp-route-id="@cadastro.Username">Excluir</a></td>
                 </tr>
             }
         </tbody>
