@@ -24,7 +24,7 @@
                     
                     <input class="box" type="email" placeholder="Email" name="emaildigitado">
                     <input class="box" type="password" placeholder="Senha" name="senhadigitada">
-                    <input class="box" type="submit" placeholder="Entrar">
+                    <input class="box" type="submit" placeholder="Entrar" asp-area="" asp-controller="Login" asp-action="Autenticacao" >
                     
                 </form>
                 <div class="or"> 
@@ -47,7 +47,7 @@
             
             <div class="cadastro-content">
                 
-                <p>Não tem uma conta? <a asp-area="" asp-controller="Cadastro" asp-action="Cadastro" >Cadastre-se</a></p>
+                <p>Não tem uma conta? <a asp-area="" asp-controller="Cadastro" asp-action="cad" >Cadastre-se</a></p>
                 
             </div>
             

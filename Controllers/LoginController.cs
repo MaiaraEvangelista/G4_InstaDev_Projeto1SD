@@ -17,6 +17,7 @@ namespace G4_InstaDev_Projeto1SD.Controllers
             return View();
         }
 
+        [Route("Autenticacao")]
         public IActionResult Login( IFormCollection form ){
 
             novoLogin.EmailDigitado = form["emaildigitado"];
@@ -30,7 +31,7 @@ namespace G4_InstaDev_Projeto1SD.Controllers
 
             }
 
-            return View();
+            return LocalRedirect("~/Home/Login");
         
         }
         

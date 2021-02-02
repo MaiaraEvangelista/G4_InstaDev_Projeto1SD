@@ -36,3 +36,4 @@ C:\Users\vinyl\OneDrive\Documentos\Curso Desenvolvimento de Sistemas SENAI\1º S
 C:\Users\vinyl\OneDrive\Documentos\Curso Desenvolvimento de Sistemas SENAI\1º Semestre\Homolog\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\InstaDev.genruntimeconfig.cache
 C:\Users\vinyl\OneDrive\Documentos\Curso Desenvolvimento de Sistemas SENAI\1º Semestre\Homolog\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\InstaDev.csproj.CopyComplete
 C:\Users\vinyl\OneDrive\Documentos\Curso Desenvolvimento de Sistemas SENAI\1º Semestre\Homolog\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Documentos\Curso Desenvolvimento de Sistemas SENAI\1º Semestre\Homolog\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Cadastro\index.cshtml.g.cs
