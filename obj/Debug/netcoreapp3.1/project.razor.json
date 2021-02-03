@@ -14430,6 +14430,11 @@
       "FilePath": "c:\\Users\\adm\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\adm\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Perfil\\Index.cshtml",
+      "TargetPath": "Views\\Perfil\\Index.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
