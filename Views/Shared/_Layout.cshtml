@@ -4,13 +4,11 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - G4_InstaDev_Projeto1SD</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/LoginStyle.css" />
     <link rel="stylesheet" href="~/css/style.css"/>
     <script src="https://kit.fontawesome.com/21c24c8b77.js" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
     <link rel="stylesheet" href="~/css/index.css" />
-
     <link rel="stylesheet" href="~/css/style.css" />
     <link rel="stylesheet" href="~/css/LoginStyle.css" />
 </head>
@@ -21,7 +19,7 @@
         <div class="cabecalho">
 
             <div class="logo">
-                <img class="log" src="img/Instadev.png" alt="Instadev">
+                 <a asp-controller="Home" asp-action="Index"><img class="log" style="width: 130%;"  src="img/Instadev.png" alt="Instadev"></a>
             </div>
 
             <div class="pesquisa">
@@ -31,7 +29,7 @@
 
             <div class="bol">
                 <div class="bolinhas">
-                   <a class="ajuste" style="height: 80%;" href="#"> <img src="img/Vector.png" alt=""> </a>
+                   <a class="ajuste" style="height: 80%;" asp-controller="Home" asp-action="Index"> <img src="img/Vector.png" alt=""> </a>
                    <a class="ajuste" style="height: 80%;" href="#"> <img src="img/plane 1.png" alt=""> </a>
                    <a class="ajuste" style="height: 80%;" href="#"> <img src="img/compass 1.png" alt=""> </a>
                    <a class="ajuste" style="height: 70%;" href="#"> <img src="img/heart.png" alt=""> </a>
