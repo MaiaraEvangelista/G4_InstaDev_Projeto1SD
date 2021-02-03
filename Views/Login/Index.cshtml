@@ -13,11 +13,12 @@
             <div class="login">
 
                 <p> <img src="/img/Instadev.svg" alt=""> </p>
-                <form class="dados-login" action="Login">
+                <form method="POST" class="dados-login" action='@Url.Action("Perfil")'>
                     
-                    <input class="box" type="email" placeholder="Email" name="emaildigitado">
-                    <input class="box" type="password" placeholder="Senha" name="senhadigitada">
-                    <input class="box" type="submit" placeholder="Entrar">
+                    <input class="box" type="email" placeholder="Email" name="emaildigitado" required />
+                    <input class="box" type="password" placeholder="Senha" name="senhadigitada" required />
+                    <button class="box" type="submit"> LOGIN </button>
+                    
 
                 </form>
                 <div class="or"> 

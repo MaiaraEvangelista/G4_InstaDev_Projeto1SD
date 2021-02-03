@@ -105,6 +105,8 @@ input{
 
     background-color: none;
     border: none;
+    justify-content: center;
+    padding-right: 15px;
 
 }
 
