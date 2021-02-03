@@ -131,10 +131,39 @@ using G4_InstaDev_Projeto1SD.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7a97ace8dd71070322af1ffb8c2d88d5798dda8410638", async() => {
-                WriteLiteral("\r\n    <div class=\"container\">\r\n        <main role=\"main\" class=\"pb-3\">\r\n            ");
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b32402820ea1d3080bb0739f80263704886364797633", async() => {
+                WriteLiteral(@"
+    
+    <header class=""cabeca"">
+        <div class=""cabecalho"">
+
+            <div class=""logo"">
+                <img class=""log"" src=""img/Instadev.png"" alt=""Instadev"">
+            </div>
+
+            <div class=""pesquisa"">
+                <input class=""pesq"" placeholder=""Pesquisar"" type=""text"">
+                <img class=""lupa"" src=""img/lupa.png""");
+                BeginWriteAttribute("alt", " alt=\"", 809, "\"", 815, 0);
+                EndWriteAttribute();
+                WriteLiteral(">\r\n            </div>\r\n\r\n            <div class=\"bol\">\r\n                <div class=\"bolinhas\">\r\n                   <a class=\"ajuste\" style=\"height: 80%;\" href=\"#\"> <img src=\"img/Vector.png\"");
+                BeginWriteAttribute("alt", " alt=\"", 1005, "\"", 1011, 0);
+                EndWriteAttribute();
+                WriteLiteral("> </a>\r\n                   <a class=\"ajuste\" style=\"height: 80%;\" href=\"#\"> <img src=\"img/plane 1.png\"");
+                BeginWriteAttribute("alt", " alt=\"", 1114, "\"", 1120, 0);
+                EndWriteAttribute();
+                WriteLiteral("> </a>\r\n                   <a class=\"ajuste\" style=\"height: 80%;\" href=\"#\"> <img src=\"img/compass 1.png\"");
+                BeginWriteAttribute("alt", " alt=\"", 1225, "\"", 1231, 0);
+                EndWriteAttribute();
+                WriteLiteral("> </a>\r\n                   <a class=\"ajuste\" style=\"height: 70%;\" href=\"#\"> <img src=\"img/heart.png\"");
+                BeginWriteAttribute("alt", " alt=\"", 1332, "\"", 1338, 0);
+                EndWriteAttribute();
+                WriteLiteral("> </a>\r\n                    <a class=\"bola ajuste\" href=\"#\"> <img src=\"img/thank-you 3.png\"");
+                BeginWriteAttribute("alt", " alt=\"", 1430, "\"", 1436, 0);
+                EndWriteAttribute();
+                WriteLiteral("></a>\r\n                </div>\r\n            </div>\r\n\r\n        </div>\r\n    </header>\r\n    \r\n    <div class=\"container\">\r\n        <main role=\"main\" class=\"pb-3\">\r\n            ");
 #nullable restore
-#line 16 "C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\Views\Shared\_Layout.cshtml"
+#line 40 "C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\Views\Shared\_Layout.cshtml"
        Write(RenderBody());
 
 #line default
