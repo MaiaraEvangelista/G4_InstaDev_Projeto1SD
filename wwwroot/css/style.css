@@ -10,12 +10,12 @@ body{
     align-items: center;
     justify-content: center;
 }
-.container{
+/* .container{
     width: 100%;
     max-width: 342px;
     height: 570px;
     margin-top: 9px;
-}
+} */
 .content{
     height: 450px;
     display: flex;
@@ -48,6 +48,12 @@ body{
     margin-top: -47px;
     margin-bottom: 10px;
 }
+.textoCadastro p {
+
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+
+}
 .textoCadastro2{
     display: flex;
     flex-wrap: wrap;
@@ -57,6 +63,12 @@ body{
     text-align: center;
     color: #909090;
     margin-top: 8px;
+}
+.textoCadastro2 p {
+
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+
 }
 .inputs{
     height: 200px;
@@ -92,6 +104,11 @@ body{
     justify-content: center;
     margin-top: 20px;
 }
+.buttonCadastro p {
+
+    margin-bottom: 0;
+
+}
 .container2{
     width: 100%;
     max-width: 342px;
@@ -114,6 +131,11 @@ body{
     font-size: 12px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.textoLoginCadastro p{
+
+    margin-bottom: 0;
+
+}
 .textoLoginCadastro a{
     text-decoration: none;
     color: #2686CC;
@@ -131,6 +153,11 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #909090;
     margin-top: 20px;
+}
+.container3 p {
+
+    margin-top: 1.5rem;
+
 }
 .imagensContainer3{
     display: flex;
