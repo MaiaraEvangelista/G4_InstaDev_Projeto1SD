@@ -147,4 +147,9 @@ C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netco
 C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.pdb
 C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.genruntimeconfig.cache
 C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.csproj.CopyComplete
+<<<<<<< HEAD
 C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+=======
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Perfil\Index.cshtml.g.cs
+>>>>>>> 6159f16c0ed4b7f147dcf6989c83bce21ba4fa58

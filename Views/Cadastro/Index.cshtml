@@ -46,27 +46,3 @@
     </main>
 </body>
 </form>
-@*<div class="body">
-    <div class="container">
-    <table class="content">
-        <thead>
-            <th>Email</th>
-            <th>Nome</th>
-            <th>Nome de usuário</th>
-            <th>Senha</th>
-        </thead>
-        <tbody>
-            @foreach (Cadastro cadastro in ViewBag.Cadastros)
-            {
-                <tr>
-                    <td>@cadastro.Email</td>
-                    <td>@cadastro.Nome</td>
-                    <td>@cadastro.Username</td>
-                    <td>@cadastro.Senha</td>
-                    <td><a asp-area="Link para excluir conta" asp-controller="Cadastro" asp-action="Excluir" asp-route-id="@cadastro.Username">Excluir</a></td>
-                </tr>
-            }
-        </tbody>
-    </table>
-    </div>
-</div> *@
