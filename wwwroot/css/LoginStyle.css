@@ -46,13 +46,14 @@
     align-items:        center;
     flex-direction:     column;
     justify-content:    space-around;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
 .login {
 
     background-color: #FFFFFF;
-    width: 100%;
+    width: 342px;
     height: 380px;
     display: flex;
     align-items: center;
@@ -67,7 +68,7 @@
 
     width: 165px;
     height: 63px;
-
+    margin-top: 12px;
 }
 
 .dados-login{
@@ -88,23 +89,33 @@
     width: 267px;
     height: 35px;
     margin: 0.1rem;
-    border: #909090 1px solid;
-    border-radius: 0.3rem;
+    border: #DCDCDC 2px solid;
+    border-radius: 3px;
     background-color: #FAFAFA;
+    outline: 0;
 
 }
 
 input{
 
-    padding-left: 1rem;
+    padding-left: 10px;
     font-size: 11px;
-
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.box:nth-child(1){
+    margin-bottom: 7px;
 }
 
 .box:nth-child(3){
 
     background-color: none;
     border: none;
+<<<<<<< HEAD
+    justify-content: center;
+    padding-right: 15px;
+=======
+    padding-left: 0;
+>>>>>>> 6159f16c0ed4b7f147dcf6989c83bce21ba4fa58
 
 }
 
@@ -112,7 +123,7 @@ input{
 
     font-size: 12px;
     margin-top: 1rem;
-    background-color: var(--azul);
+    background-color: var(--links);
     border: var(--azul);
     color: white;
 
@@ -129,7 +140,7 @@ input{
 
 .line{
 
-    border: #909090 1px solid;
+    border: #CBCBCB 1px solid;
     width: 100px;
     
 
@@ -139,8 +150,6 @@ input{
 
     padding: 0 1rem;
     color: #909090;
-    text-transform: uppercase;
-
 }
 
 .login .recuperacao {
@@ -152,7 +161,7 @@ input{
 .login a {
 
     font-size: 12px;
-    color: var(--azul);
+    color: var(--links);
     text-decoration: none;
 
 }
@@ -177,7 +186,7 @@ input{
 .cadastro-content a {
 
     text-decoration: none;
-    color: var(--azul);
+    color: var(--links);
 
 }
 
@@ -185,12 +194,12 @@ input{
 
     width: 342px;
     height: 75px;
-    background-color: #FFFFFF;
     border-radius: 3px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 10px;
 
 }
 
