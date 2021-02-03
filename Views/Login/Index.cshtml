@@ -1,7 +1,11 @@
 @using G4_InstaDev_Projeto1SD.Models
 
 @{
-    ViewData["Title"] = "Login";
+    ViewData["Title"] = "Home Page2";
+}
+
+@{
+    Layout = "_LayoutLogin";
 }
 
 <body>
@@ -13,7 +17,7 @@
             <div class="login">
 
                 <p> <img src="/img/Instadev.svg" alt=""> </p>
-                <form method="POST" class="dados-login" action='@Url.Action("Perfil")'>
+                <form method="POST" class="dados-login" action='@Url.Action("Login")'>
                     
                     <input class="box" type="email" placeholder="Email" name="emaildigitado" required />
                     <input class="box" type="password" placeholder="Senha" name="senhadigitada" required />

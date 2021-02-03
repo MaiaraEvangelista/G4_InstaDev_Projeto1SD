@@ -20,7 +20,7 @@ namespace G4_InstaDev_Projeto1SD.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return Redirect("~/Home/Login") ;
         }
 
         public IActionResult Privacy()

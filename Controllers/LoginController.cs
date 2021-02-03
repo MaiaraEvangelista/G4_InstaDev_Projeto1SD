@@ -23,7 +23,7 @@ namespace G4_InstaDev_Projeto1SD.Controllers
         }
 
         [Route("Autentic")]
-        public IActionResult Perfil( IFormCollection form ){
+        public IActionResult Login( IFormCollection form ){
 
             List<string> csv = cadastroModel.ReadAllLinesCSV(PATH);
 
@@ -45,7 +45,7 @@ namespace G4_InstaDev_Projeto1SD.Controllers
                 cadastroModel.Imagem = logado.Split(";"[4]).ToString();
                 cadastroModel.Email = logado.Split(";"[0]).ToString();
                 
-                return View();
+                return Redirect("~/Perfil");
   
             }
 
