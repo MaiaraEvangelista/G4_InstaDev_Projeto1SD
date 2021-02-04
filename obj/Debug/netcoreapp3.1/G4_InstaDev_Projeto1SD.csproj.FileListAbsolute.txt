@@ -69,7 +69,6 @@ C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_
 C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.csproj.CopyComplete
 <<<<<<< HEAD
 C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Cadastro\Index.cshtml.g.cs
-C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 =======
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\appsettings.json
@@ -151,3 +150,9 @@ C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netco
 C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
 C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutCadastro.cshtml.g.cs
 C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Indexold.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Indexold.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutCadastro.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
