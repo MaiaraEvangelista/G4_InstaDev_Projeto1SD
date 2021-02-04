@@ -25,7 +25,13 @@
                     <input class="inputCadastro" type="text" name="Nome" placeholder="Nome">
                     <input class="inputCadastro" type="text" name="Username" placeholder="Nome de usuário">
                     <input class="inputCadastro" type="password" name="Senha" placeholder="Senha">
-                    <input type="file" name="Imagem" for="Imagem" />
+                    <div class="Imagem">
+                            <div class="buttonImagem">
+                                <p>Selecione sua foto<br>de perfil</p>
+                                <label for='Imagem'>Foto de perfil</label>
+                                <input class="inputImagem" type="file" name="Imagem" id= "Imagem" for="Imagem" />
+                            </div>
+                        </div>
                 </div>
                 <button class="buttonCadastro">
                     <a asp-controller="" asp-action=""></a> Cadastre-se
