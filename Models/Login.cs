@@ -1,4 +1,6 @@
 using System.IO;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 
 namespace G4_InstaDev_Projeto1SD.Models
 {
@@ -12,7 +14,8 @@ namespace G4_InstaDev_Projeto1SD.Models
 
         public string Validacao { get; set; }
         
-        
+        [TempData]
+        public string Mensagem { get; set; }
 
         // ------------------------------------------------ //
         

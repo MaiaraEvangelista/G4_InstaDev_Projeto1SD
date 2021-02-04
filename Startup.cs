@@ -24,6 +24,16 @@ namespace G4_InstaDev_Projeto1SD
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.AddDistributedMemoryCache();
+
+            services.AddSession(Options =>
+            {
+                Options.IdleTimeout = TimeSpan.FromHours(2);
+                Options.Cookie.HttpOnly = true;
+                Options.Cookie.IsEssential = true;
+            });
+                       
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -45,6 +55,8 @@ namespace G4_InstaDev_Projeto1SD
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseSession(); 
 
             app.UseEndpoints(endpoints =>
             {

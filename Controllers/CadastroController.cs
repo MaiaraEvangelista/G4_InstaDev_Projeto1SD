@@ -1,3 +1,4 @@
+using System;
 using System.IO;
 using G4_InstaDev_Projeto1SD.Models;
 using Microsoft.AspNetCore.Http;
@@ -23,6 +24,9 @@ namespace G4_InstaDev_Projeto1SD.Controllers
             novoCadastro.Nome     = form["Nome"];
             novoCadastro.Username = form["Username"];
             novoCadastro.Senha     = form["Senha"];
+
+            Random rnd = new Random();
+            novoCadastro.IdUsuario = rnd.Next(1000);
 
             CadastroModel1.Create(novoCadastro);
             ViewBag.Cadastros = CadastroModel1.ReadAll();

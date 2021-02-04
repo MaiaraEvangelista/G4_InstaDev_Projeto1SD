@@ -6,6 +6,7 @@ namespace G4_InstaDev_Projeto1SD.Models
 {
     public class Cadastro : CadastroBase, ICadastro 
     {
+        public int IdUsuario{get; set;}
         public string Email { get; set; }
         public string Nome { get; set; }
         public string Username { get; set; }
@@ -14,7 +15,7 @@ namespace G4_InstaDev_Projeto1SD.Models
         public const string PATH = "Database/Cadastro.csv";
 
         public string Prepare (Cadastro c){
-            return $"{c.Email};{c.Nome};{c.Username};{c.Senha}";
+            return $"{c.Email};{c.Nome};{c.Username};{c.Senha};{c.IdUsuario}";
         }
         public Cadastro (){
             CreateFileAndFolder(PATH);
@@ -40,6 +41,7 @@ namespace G4_InstaDev_Projeto1SD.Models
                 cadastro.Nome     = linha[1];
                 cadastro.Username = linha[2];
                 cadastro.Senha    = linha[3];
+                cadastro.IdUsuario = int.Parse(linha[4]);
 
                 cadastros.Add(cadastro);
 
@@ -61,6 +63,12 @@ namespace G4_InstaDev_Projeto1SD.Models
             linhas.Add(Prepare (c));
             RewriteCSV (PATH, linhas);
 
+        }
+        
+        public Cadastro BuscarPorId(int id)
+        {
+            Cadastro user =  ReadAll().Find(c => c.IdUsuario == id); 
+            return user; 
         }
     }
 }
