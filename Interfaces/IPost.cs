@@ -7,5 +7,7 @@ namespace G4_InstaDev_Projeto1SD.Interfaces
     {
         void Create(Postar p);
         List<Postar> ReadAll();
+        void Update(Postar p);
+        void Delete(int Id);
     }
 }
