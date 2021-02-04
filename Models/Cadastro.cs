@@ -64,20 +64,5 @@ namespace G4_InstaDev_Projeto1SD.Models
             return cadastros;
         }
 
-        public void Remove(string username)
-        {
-            List<string> linhas = ReadAllLinesCSV(PATH);
-            linhas.RemoveAll(x=> x.Split(";")[0] == username.ToString());
-            RewriteCSV (PATH, linhas);
-        }
-
-        public void Uptade(Cadastro c)
-        {
-            List<string> linhas = ReadAllLinesCSV(PATH);
-            linhas.RemoveAll(x=> x.Split(";")[0] == c.Username.ToString());
-            linhas.Add(Prepare (c));
-            RewriteCSV (PATH, linhas);
-
-        }
     }
 }
