@@ -13,9 +13,7 @@ namespace G4_InstaDev_Projeto1SD.Models
         public string Username { get; set; }
         public string Senha { get; set; }
         public int IdCadastro { get; set; }
-        private string imagem = "padrao.png";
-        public string Imagem { get {return imagem;} set{imagem = value;}}
-        public int IdCadastro { get; set;}
+        public string Imagem { get; set; }
 
         public const string PATH = "Database/Cadastro.csv";
 
@@ -60,6 +58,7 @@ namespace G4_InstaDev_Projeto1SD.Models
                 cadastro.Nome     = linha[1];
                 cadastro.Username = linha[2];
                 cadastro.Senha    = linha[3];
+                cadastro.Imagem   = linha[4];
                 cadastro.IdCadastro = int.Parse(linha[5]);
 
                 cadastros.Add(cadastro);
@@ -87,7 +86,7 @@ namespace G4_InstaDev_Projeto1SD.Models
         public void  MostrarImg(int id)
         {
             List<string> linha = ReadAllLinesCSV(PATH);
-            linha.Find(x => x.Split(";")[5] == id.ToString());
+            linha.Find(x => x.Split(";")[4] == id.ToString());
         }
         
     }
