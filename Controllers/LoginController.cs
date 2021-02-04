@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using G4_InstaDev_Projeto1SD.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace G4_InstaDev_Projeto1SD.Controllers
 {
@@ -40,19 +41,31 @@ namespace G4_InstaDev_Projeto1SD.Controllers
             {
 
                 HttpContext.Session.SetString("_UserName", logado.Split(";")[2]);
-                cadastroModel.Nome = logado.Split(";"[1]).ToString();
-                cadastroModel.Username = logado.Split(";"[2]).ToString();
-                cadastroModel.Imagem = logado.Split(";"[4]).ToString();
-                cadastroModel.Email = logado.Split(";"[0]).ToString();
-                
+                HttpContext.Session.SetString("_Name", logado.Split(";")[1]);
+                HttpContext.Session.SetString("_Img", logado.Split(";")[4]);
+
                 return Redirect("~/Perfil");
   
             }
+
+            Console.WriteLine("Nao estou logado");
 
             // novoLogin.Validacao = "Dados incorretos, tente novamente...";
             return LocalRedirect("~/Home");
 
         }
         
+
+        [Route("Logout")]
+        public IActionResult Logout(){
+
+            HttpContext.Session.Remove("_UserName");
+            HttpContext.Session.Remove("_Name");
+            HttpContext.Session.Remove("_Img");
+
+            return Redirect("~/Home/Login");
+
+        }
+
     }
 }

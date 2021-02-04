@@ -11,6 +11,7 @@ namespace G4_InstaDev_Projeto1SD.Controllers
         public IActionResult Index()
         {
             ViewBag.Perfil = perfil.ReadAll();
+            ViewBag.User    = HttpContext.Session.GetString("_UserName");
             return View();
         }
         [Route("Comentar")]
