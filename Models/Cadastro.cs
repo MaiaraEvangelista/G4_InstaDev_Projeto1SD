@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System;
 using System.IO;
 using G4_InstaDev_Projeto1SD.Interfaces;
 
@@ -12,11 +13,12 @@ namespace G4_InstaDev_Projeto1SD.Models
         public string Senha { get; set; }
         private string imagem = "padrao.png";
         public string Imagem { get {return imagem;} set{imagem = value;}}
+        public int IdCadastro { get; set;}
 
         public const string PATH = "Database/Cadastro.csv";
 
         public string Prepare (Cadastro c){
-            return $"{c.Email};{c.Nome};{c.Username};{c.Senha};{c.Imagem}";
+            return $"{c.Email};{c.Nome};{c.Username};{c.Senha};{c.Imagem};{c.IdCadastro}";
         }
         public Cadastro (){
             CreateFileAndFolder(PATH);
@@ -24,6 +26,20 @@ namespace G4_InstaDev_Projeto1SD.Models
 
         public void Create(Cadastro c)
         {
+            var linha = ReadAll();
+
+            if(linha.Count > 0)
+            {
+                Random aleatorio = new Random();
+                int ale = aleatorio.Next();
+
+                c.IdCadastro = ale;
+            }
+            else
+            {
+                c.IdCadastro = 1;
+            }
+
             string [] linhas = {Prepare(c)};
             File.AppendAllLines(PATH, linhas);
         }
@@ -42,6 +58,7 @@ namespace G4_InstaDev_Projeto1SD.Models
                 cadastro.Nome     = linha[1];
                 cadastro.Username = linha[2];
                 cadastro.Senha    = linha[3];
+                cadastro.IdCadastro = int.Parse(linha[5]);
 
                 cadastros.Add(cadastro);
 
@@ -64,5 +81,12 @@ namespace G4_InstaDev_Projeto1SD.Models
             RewriteCSV (PATH, linhas);
 
         }
+
+        public void  MostrarImg(int id)
+        {
+            List<string> linha = ReadAllLinesCSV(PATH);
+            linha.Find(x => x.Split(";")[5] == id.ToString());
+        }
+        
     }
 }

@@ -11,16 +11,6 @@ namespace G4_InstaDev_Projeto1SD.Models
 
         public int IdComentarios { get; set; }
         public string Coments { get; set; }
-        public string Name { get; set; }
-        public string Img { get; set; }
-        public string User { get; set; }
-
-        public void pass()
-        {
-            cadastro.Nome = Name;
-            cadastro.Username = User;
-            cadastro.Imagem = Img;
-        }
 
         private const string PATH = "DataBase/Perfil.csv";
 
@@ -79,5 +69,6 @@ namespace G4_InstaDev_Projeto1SD.Models
 
             return perf;
         }
+
     }
 }

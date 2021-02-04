@@ -19,6 +19,7 @@ namespace G4_InstaDev_Projeto1SD.Controllers
         [Route ("Cadastrar")]
         public IActionResult Cadastrao (IFormCollection form){
             Cadastro novoCadastro   = new Cadastro();
+            
             novoCadastro.Email = form["Email"];
             novoCadastro.Nome     = form["Nome"];
             novoCadastro.Username = form["Username"];
@@ -27,7 +28,7 @@ namespace G4_InstaDev_Projeto1SD.Controllers
             CadastroModel1.Create(novoCadastro);
             ViewBag.Cadastros = CadastroModel1.ReadAll();
 
-            return LocalRedirect ("~/Cadastro/Listar");
+            return LocalRedirect ("~/Home/Login");
          }
 
         public IActionResult Excluir (string username){

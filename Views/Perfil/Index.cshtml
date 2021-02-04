@@ -18,7 +18,7 @@
 
                 <div class="inf">
                     <div class="nome">
-                        <p>yes_baby</p>
+                        <p>@ViewBag._UserName</p>
                     </div>
 
                     <div class="nume">
@@ -28,8 +28,8 @@
                     </div>
 
                     <div class="nume">
-                        <p class="est">Marcus Jeeves</p>
-                        <a href="#">Sair</a>
+                        <p class="est">@ViewBag._Name</p>
+                        <a asp-controller="Home" asp-action="Logout" >Sair</a>
                         <a href="#">Editar Perfil</a>
                     </div>
 
@@ -49,9 +49,8 @@
         </div>
 
         <br></br>
-       
         <section class="publicacao">
-
+            
             <div class="publi">
 
                 <div class="publi-pub">
@@ -70,7 +69,7 @@
 
                         <div class="meio">
                             <div class="meio-1">
-                                <h4>Marcus Jeeves</h2>
+                                <h4>@ViewBag._Name</h2>
                             </div>
                             <div class="meio-2">
                                 <h5>Rio de Janeiro</h5>
