@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System;
 using System.IO;
+using System;
 using G4_InstaDev_Projeto1SD.Interfaces;
 
 namespace G4_InstaDev_Projeto1SD.Models
@@ -11,6 +12,7 @@ namespace G4_InstaDev_Projeto1SD.Models
         public string Nome { get; set; }
         public string Username { get; set; }
         public string Senha { get; set; }
+        public int IdCadastro { get; set; }
         private string imagem = "padrao.png";
         public string Imagem { get {return imagem;} set{imagem = value;}}
         public int IdCadastro { get; set;}

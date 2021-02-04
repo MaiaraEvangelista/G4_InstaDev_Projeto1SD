@@ -30,14 +30,6 @@ namespace G4_InstaDev_Projeto1SD.Controllers
 
             return LocalRedirect ("~/Home/Login");
          }
-
-        public IActionResult Excluir (string username){
-            CadastroModel1.Remove(username);
-
-            ViewBag.Cadastros = CadastroModel1.ReadAll();
-
-            return LocalRedirect("~/Cadastro");
-        }
     
     }
 }
