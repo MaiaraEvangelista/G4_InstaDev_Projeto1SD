@@ -10,11 +10,13 @@ namespace G4_InstaDev_Projeto1SD.Models
         public string Nome { get; set; }
         public string Username { get; set; }
         public string Senha { get; set; }
+        private string imagem = "padrao.png";
+        public string Imagem { get {return imagem;} set{imagem = value;}}
 
         public const string PATH = "Database/Cadastro.csv";
 
         public string Prepare (Cadastro c){
-            return $"{c.Email};{c.Nome};{c.Username};{c.Senha}";
+            return $"{c.Email};{c.Nome};{c.Username};{c.Senha};{c.Imagem}";
         }
         public Cadastro (){
             CreateFileAndFolder(PATH);

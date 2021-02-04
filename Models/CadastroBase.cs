@@ -22,7 +22,7 @@ namespace G4_InstaDev_Projeto1SD.Models
             using (StreamReader file = new StreamReader (path))
             {
                 string linha;
-                while ((linha = Console.ReadLine()) != null){
+                while ((linha = file.ReadLine()) != null){
                     linhas.Add(linha);
                 }
             }

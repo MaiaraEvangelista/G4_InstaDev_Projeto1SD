@@ -16,46 +16,45 @@ namespace G4_InstaDev_Projeto1SD.Models
 
         // ------------------------------------------------ //
         
-        private const string PATH = "Database/Cadastro.csv";
+        // private const string PATH = "Database/Cadastro.csv";
 
         
-        public bool ValidacaoEmaileSenha(string EmailDigitado, string SenhaDigitada ){
+        // public bool ValidacaoEmaileSenha(string EmailDigitado, string SenhaDigitada ){
             
-            //  Instanciar um objeto 
+        //     //  Coletar as informações presentes no CSV de cadastro
+        //     string [] linhas = File.ReadAllLines(PATH);
 
-            //  Coletar as informações presentes no CSV de cadastro
-            string [] linhas = File.ReadAllLines(PATH);
-
-            //  Percorrer as linhas do CSV
-            foreach (var dado in linhas)
-            {
+        //     //  Percorrer as linhas do CSV
+        //     foreach (var dado in linhas)
+        //     {
                 
-                //  Atribuir o valor do email correspondente no CSV a uma váriavel para fazer a comparação
-                string emailCSV = dado.Split(";")[0];
+        //         //  Atribuir o valor do email correspondente no CSV a uma váriavel para fazer a comparação
+        //         string emailCSV = dado.Split(";")[0];
 
-                //  Atribuir o valor da senha correspondedo no CSV a uma váriavel para fazer a comparação
-                string senhaCSV = dado.Split(";")[3];
+        //         //  Atribuir o valor da senha correspondedo no CSV a uma váriavel para fazer a comparação
+        //         string senhaCSV = dado.Split(";")[3];
 
-                // verificar se o email E senha digitado correspondem a algum email e senha presente na mesma Linha
-                if (emailCSV == EmailDigitado && senhaCSV == SenhaDigitada )
-                {
+        //         // verificar se o email E senha digitado correspondem a algum email e senha presente na mesma Linha
+        //         if (emailCSV == EmailDigitado && senhaCSV == SenhaDigitada )
+        //         {
                     
-                    //  Se ele encontrar retorna o valor verdadeiro
-                    Validacao = "Login Localizado";
+
+        //             //  Se ele encontrar retorna o valor verdadeiro
+        //             Validacao = "Login Localizado";
 
 
-                    return true;
+        //             return true;
                     
-                }
+        //         }
 
-            }
+        //     }
 
-            //  Se não encontrar retorna falso, e a utilização desses dados serão representados no cshtml
-            Validacao = "Email ou Senha Incorretos, caso";
+        //     //  Se não encontrar retorna falso, e a utilização desses dados serão representados no cshtml
+        //     Validacao = "Email ou Senha Incorretos";
 
-            return false;
+        //     return false;
 
-        }   
+        // }   
         
     }
 }

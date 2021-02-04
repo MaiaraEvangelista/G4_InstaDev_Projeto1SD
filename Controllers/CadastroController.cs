@@ -35,7 +35,7 @@ namespace G4_InstaDev_Projeto1SD.Controllers
 
             ViewBag.Cadastros = CadastroModel1.ReadAll();
 
-            return LocalRedirect("~/Cadastro/Listar");
+            return LocalRedirect("~/Cadastro");
         }
     
     }

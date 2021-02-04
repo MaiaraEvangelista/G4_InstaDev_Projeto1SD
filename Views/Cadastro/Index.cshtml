@@ -4,6 +4,12 @@
     ViewData["Title"] = "Cadastro";
 }
 
+@{
+
+    Layout = "_LayoutCadastro";
+
+}
+
 <form method="POST" action='@Url.Action("Cadastrar")' enctype="multipart/form-data">
 <body>
     <main>
@@ -21,7 +27,7 @@
                     <input class="inputCadastro" type="password" name="Senha" placeholder="Senha">
                 </div>
                 <button class="buttonCadastro">
-                    <p>Cadastre-se</p>
+                    <a asp-controller="" asp-action=""></a> Cadastre-se
                 </button>
                 <div class="textoCadastro2">
                     <p>Ao se cadastrar, você concorda com nossos Termos, Política de Dados e Política de Cookies. </p>
@@ -31,7 +37,7 @@
             <div class="container2">
                 <div class="textoLoginCadastro">
                     <p>Tem uma conta?</p>
-                    <a href="#">Conecte-se</a>
+                    <a asp-area="" asp-controller="Login" asp-action="Index" > Conecte-se </a>
                 </div>
             </div>
             <div class="container3">
@@ -46,27 +52,3 @@
     </main>
 </body>
 </form>
-<div class="body">
-    <div class="container">
-    <table class="content">
-        <thead>
-            <th>Email</th>
-            <th>Nome</th>
-            <th>Nome de usuário</th>
-            <th>Senha</th>
-        </thead>
-        <tbody>
-            @foreach (Cadastro cadastro in ViewBag.Cadastros)
-            {
-                <tr>
-                    <td>@cadastro.Email</td>
-                    <td>@cadastro.Nome</td>
-                    <td>@cadastro.Username</td>
-                    <td>@cadastro.Senha</td>
-                    <td><a asp-area="Link para excluir conta teste" asp-controller="Cadastro" asp-action="Excluir" asp-route-id="@cadastro.Username">Excluir</a></td>
-                </tr>
-            }
-        </tbody>
-    </table>
-    </div>
-</div>
