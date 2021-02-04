@@ -31,7 +31,7 @@ namespace G4_InstaDev_Projeto1SD.Models
 
         public string linha(Perfil y)
         {
-                return $"{y.Name};{y.User};{y.Img};{y.Coments};{y.IdComentarios};";
+                return $"{y.Coments};{y.IdComentarios};";
         }
         public void Create(Perfil x)
         {
@@ -57,7 +57,7 @@ namespace G4_InstaDev_Projeto1SD.Models
         public void Delete(int id)
         {
             List<string> linhas = ReadAllLinesCSV(PATH);
-            linhas.RemoveAll(x => x.Split(";")[4] == id.ToString());
+            linhas.RemoveAll(x => x.Split(";")[1] == id.ToString());
             RewriteCSV(PATH, linhas);
         }
 
@@ -71,11 +71,8 @@ namespace G4_InstaDev_Projeto1SD.Models
                 string[] sep = item.Split(';');
 
                 Perfil perfil = new Perfil();
-                perfil.Name = sep[0];
-                perfil.User = sep[1];
-                perfil.Img = sep[2];
-                perfil.Coments = sep[3];
-                perfil.IdComentarios = int.Parse(sep[4]);
+                perfil.Coments = sep[0];
+                perfil.IdComentarios = int.Parse(sep[1]);
 
                 perf.Add(perfil);
             }

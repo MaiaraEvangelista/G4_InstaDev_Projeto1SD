@@ -26,7 +26,7 @@ using G4_InstaDev_Projeto1SD.Models;
 #line default
 #line hidden
 #nullable disable
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"66d7a0d5bfb425e4e178df49708e53734de1c93a", @"/Views/Perfil/Index.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ab0dcd0c1aa64f9bf6a002babd95557d2a72ba08", @"/Views/Perfil/Index.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d792a540240e9e730745d7aca43c2c7c3e091190", @"/Views/_ViewImports.cshtml")]
     public class Views_Perfil_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<Perfil>
     {
@@ -78,7 +78,7 @@ using G4_InstaDev_Projeto1SD.Models;
 
                 <div class=""foto-perfil"">
                     <div class=""circulo"">
-                        <img style=""border-radius: 100%;"" src=""img/thank-you 3.png"" alt=""foto de perfil"">
+                        <img style=""border-radius: 100%;"" src=""img/padrao.png"" alt=""foto de perfil"">
                     </div>
                 </div>
 
@@ -103,9 +103,9 @@ using G4_InstaDev_Projeto1SD.Models;
 
             </div>
 
-       ");
-            WriteLiteral(" </section>\r\n        \r\n        <div class=\"linha\"></div>\r\n\r\n        <div class=\"pub\">\r\n            <div class=\"pub-img\">\r\n                <img src=\"img/image 1.png\"");
-            BeginWriteAttribute("alt", " alt=\"", 1247, "\"", 1253, 0);
+        </se");
+            WriteLiteral("ction>\r\n        \r\n        <div class=\"linha\"></div>\r\n\r\n        <div class=\"pub\">\r\n            <div class=\"pub-img\">\r\n                <img src=\"img/image 1.png\"");
+            BeginWriteAttribute("alt", " alt=\"", 1242, "\"", 1248, 0);
             EndWriteAttribute();
             WriteLiteral(@">
                 <p>Publicações</p>
@@ -119,8 +119,8 @@ using G4_InstaDev_Projeto1SD.Models;
             <div class=""publi"">
 
                 <div class=""publi-pub"">
-                    <img src=""img/Rectangle 4.png""");
-            BeginWriteAttribute("alt", " alt=\"", 1525, "\"", 1531, 0);
+                    <img src=""img/padrao.png""");
+            BeginWriteAttribute("alt", " alt=\"", 1515, "\"", 1521, 0);
             EndWriteAttribute();
             WriteLiteral(@">
                 </div>
@@ -131,8 +131,8 @@ using G4_InstaDev_Projeto1SD.Models;
 
                         <div class=""ball"">
                             <div class=""boll"">
-                                <img style=""border-radius: 100%;"" src=""img/thank-you 3.png""");
-            BeginWriteAttribute("alt", " alt=\"", 1854, "\"", 1860, 0);
+                                <img style=""border-radius: 100%;"" src=""img/padrao.png""");
+            BeginWriteAttribute("alt", " alt=\"", 1839, "\"", 1845, 0);
             EndWriteAttribute();
             WriteLiteral(@">
                             </div>
