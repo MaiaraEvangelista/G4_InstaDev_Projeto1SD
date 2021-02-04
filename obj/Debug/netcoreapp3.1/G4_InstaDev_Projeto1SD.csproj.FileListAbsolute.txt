@@ -93,7 +93,6 @@ C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDe
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.TagHelpers.output.cache
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.RazorCoreGenerate.cache
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Cadastro\Index.cshtml.g.cs
-C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
@@ -151,3 +150,6 @@ C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netco
 C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
 C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutCadastro.cshtml.g.cs
 C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Indexold.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Indexold.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutCadastro.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
