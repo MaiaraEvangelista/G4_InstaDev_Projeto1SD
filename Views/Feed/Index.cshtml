@@ -1,0 +1,34 @@
+@model Postar
+@{
+    ViewData["Tittle"] = "Feed";
+}
+
+<form method="POST" action='@Url.Action("Cadastrar")'  >
+
+    <label> Legenda </label>
+    <input type="text" name="Legenda" />
+
+    <label> Imagem </label>
+    <input type="text" name="Imagem" />
+
+    <button type="submit"> Publicar </button>
+
+</form>
+
+<table>
+
+    <thead>
+        <th>Legenda</th>
+        <th>Foto</th>
+    </thead>
+    <tbody>
+        @foreach (Postar item in ViewBag.Postar)
+        {
+            <tr>
+                <td> @item.Legenda </td>
+                <td> @item.Imagem </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
