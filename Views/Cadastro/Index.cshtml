@@ -28,17 +28,9 @@
                     <input class="inputCadastro" type="password" name="Senha" placeholder="Senha">
                     <div class="Imagem">
                             <div class="buttonImagem">
-                                
-                                @* @{  Cadastro img = new Cadastro ();
-
-                                    while (img.Imagem == null)
-                                    {
-                                        <p>Selecione sua foto<br>de perfil</p>
-                                    }
-                                } *@
-                                            
-                                <img src="/img/@img.Imagem" alt="Imagem do(a) @img.Username" width="40">         
-                                        
+                                @* @foreach (Cadastro img in ViewBag.Cadastros){
+                                    <img src="/img/@img.Imagem" alt="Imagem da equipe @img.Username" width="40">
+                                }       *@
                                 <label for='Imagem'>Foto de perfil</label>
                                 <input class="inputImagem" type="file" name="Imagem" id= "Imagem" for="Imagem" />
                             </div>

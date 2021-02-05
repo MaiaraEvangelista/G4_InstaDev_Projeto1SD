@@ -27,7 +27,7 @@ namespace G4_InstaDev_Projeto1SD.Controllers
 
             if( form.Files.Count > 0){
                 var file = form.Files[0];
-                var folder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img");
+                var folder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Perfis");
         
                 if(!Directory.Exists(folder)){
                     Directory.CreateDirectory(folder);

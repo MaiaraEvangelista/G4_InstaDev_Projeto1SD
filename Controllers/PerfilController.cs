@@ -13,6 +13,7 @@ namespace G4_InstaDev_Projeto1SD.Controllers
             ViewBag.Perfil = perfil.ReadAll();
             ViewBag._UserName = HttpContext.Session.GetString("_UserName");
             ViewBag._Name = HttpContext.Session.GetString("_Name");
+            ViewBag._Img = HttpContext.Session.GetString("_Img");
             return View();
         }
         [Route("Comentar")]

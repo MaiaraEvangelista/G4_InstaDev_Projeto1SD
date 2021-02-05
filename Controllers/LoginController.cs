@@ -11,6 +11,7 @@ namespace G4_InstaDev_Projeto1SD.Controllers
 
     public class LoginController : Controller
     {
+        public string Mensagem { get; set; }
         Cadastro cadastroModel = new Cadastro();
         Login novoLogin = new Login();
         public const string PATH = "Database/Cadastro.csv";
@@ -31,7 +32,8 @@ namespace G4_InstaDev_Projeto1SD.Controllers
             var logado = 
             csv.Find(
                 x => 
-                x.Split(";")[0] == form["emaildigitado"] && 
+                x.Split(";")[0] == form["emaildigitado"] ||
+                x.Split(";")[2] == form["emaildigitado"] &&
                 x.Split(";")[3] == form["senhadigitada"]
             );  
 
@@ -48,9 +50,8 @@ namespace G4_InstaDev_Projeto1SD.Controllers
   
             }
 
-            Console.WriteLine("Nao estou logado");
+            Mensagem = "Dados de login incorretos ou não cadastradados,\ntente novamente ou cadastre-se";
 
-            // novoLogin.Validacao = "Dados incorretos, tente novamente...";
             return LocalRedirect("~/Home");
 
         }

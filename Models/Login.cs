@@ -7,6 +7,7 @@ namespace G4_InstaDev_Projeto1SD.Models
         public string EmailDigitado { get; set; }
         
         public string SenhaDigitada { get; set; }
+        public string UsernameDigitado {get; set;}
         
         public string NovaSenha { get; set; }
 

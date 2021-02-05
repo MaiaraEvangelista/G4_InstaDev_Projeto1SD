@@ -1,7 +1,6 @@
 using System.Collections.Generic;
 using System;
 using System.IO;
-using System;
 using G4_InstaDev_Projeto1SD.Interfaces;
 
 namespace G4_InstaDev_Projeto1SD.Models
