@@ -2,6 +2,7 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
+<<<<<<< HEAD
 
 var btn = document.getElementById('btn');
 
@@ -21,3 +22,5 @@ $(document).ready(function(){
       $('.numb').toggleClass("heart-active")
     });
   });
+=======
+>>>>>>> feed

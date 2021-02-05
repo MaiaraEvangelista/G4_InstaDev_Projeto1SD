@@ -20,7 +20,11 @@ namespace G4_InstaDev_Projeto1SD.Controllers
 
         public IActionResult Index()
         {
+<<<<<<< HEAD
             return Redirect("~/Home/Login") ;
+=======
+            return View();
+>>>>>>> feed
         }
 
         public IActionResult Privacy()
@@ -28,5 +32,13 @@ namespace G4_InstaDev_Projeto1SD.Controllers
             return View();
         }
 
+<<<<<<< HEAD
+=======
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Error()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+>>>>>>> feed
     }
 }

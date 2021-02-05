@@ -23,6 +23,7 @@ namespace G4_InstaDev_Projeto1SD
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+<<<<<<< HEAD
 
             services.AddDistributedMemoryCache();
 
@@ -33,6 +34,8 @@ namespace G4_InstaDev_Projeto1SD
                 options.Cookie.IsEssential = true;
             });
 
+=======
+>>>>>>> feed
             services.AddControllersWithViews();
         }
 
@@ -56,8 +59,11 @@ namespace G4_InstaDev_Projeto1SD
 
             app.UseAuthorization();
 
+<<<<<<< HEAD
             app.UseSession();
 
+=======
+>>>>>>> feed
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
