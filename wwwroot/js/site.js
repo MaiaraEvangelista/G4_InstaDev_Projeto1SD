@@ -17,7 +17,7 @@ function Toggle(){
 }
 
 $(document).ready(function(){
-    $('.content').click(function(){
+    $('.content-txt').click(function(){
       $('.numb').toggleClass("heart-active")
     });
   });

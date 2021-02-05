@@ -1,3 +1,4 @@
+@using G4_InstaDev_Projeto1SD.Controllers
 @model Cadastro
 
 @{
@@ -25,6 +26,15 @@
                     <input class="inputCadastro" type="text" name="Nome" placeholder="Nome">
                     <input class="inputCadastro" type="text" name="Username" placeholder="Nome de usuário">
                     <input class="inputCadastro" type="password" name="Senha" placeholder="Senha">
+                    <div class="Imagem">
+                            <div class="buttonImagem">
+                                @* @foreach (Cadastro img in ViewBag.Cadastros){
+                                    <img src="/img/@img.Imagem" alt="Imagem da equipe @img.Username" width="40">
+                                }       *@
+                                <label for='Imagem'>Foto de perfil</label>
+                                <input class="inputImagem" type="file" name="Imagem" id= "Imagem" for="Imagem" />
+                            </div>
+                        </div>
                 </div>
                 <button class="buttonCadastro">
                     <a asp-controller="" asp-action=""></a> Cadastre-se

@@ -86,6 +86,7 @@
 }
 .bola img{
     width: 100%;
+    border-radius: 100%;
 }
 .foto{
     height: 28px;
@@ -201,22 +202,22 @@
     left: 490px;
     top: 278px;
     border: 1px solid #DCDCDC;
-    margin: 20px 0px;
+    margin: 10px 0px;
 }
 .pub{
     width: 55%;
     height: 50px;
     /* background-color: #2686CC; */
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 .pub-img{
-    width: 27%;
-    height: 100%;
+    width: 22%;
+    height: 85%;
     /* background-color: #be2727; */
     display: flex;
     justify-content: flex-end;
-    align-items: center;
+    align-items: flex-end;
 }
 .pub-img p{
     font-family: Roboto;
@@ -229,7 +230,7 @@
     color: #000000;
 }
 .pub-img img{
-    margin: 10px;
+    margin-right: 10px;
     width: 10%;
 }
 .publicacao{
@@ -241,9 +242,9 @@
     align-items: center;
 }
 .publi{
+    margin-top: 2px;
     width: 65%;
-    height: 100%;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     display: flex;
     flex-direction: row;
 }
@@ -254,6 +255,7 @@
 }   
 .publi-pub img{
     width: 100%;
+    height: 100%;
 }
 .inf-pub{
     width: 56%;
