@@ -242,6 +242,7 @@
     align-items: center;
 }
 .publi{
+    margin-top: 15px;
     width: 65%;
     background-color: rgb(255, 255, 255);
     display: flex;
@@ -356,7 +357,7 @@
     text-transform: uppercase;
 }
 .numb:before{
-    content: '301';
+    content: '0';
     font-family: Segoe UI;
     padding-left: 10px;
     font-style: normal;
@@ -367,7 +368,7 @@
     
 }
 .numb.heart-active:before{
-    content: '302';
+    content: '1';
     
 }
 .fas{

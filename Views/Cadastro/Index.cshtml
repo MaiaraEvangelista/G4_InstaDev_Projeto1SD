@@ -22,17 +22,17 @@
                     <p>Cadastre-se para ver fotos e vídeos dos seus amigos.</p>
                 </div>
                 <div class="inputs">
-                    <input class="inputCadastro" type="email" name="Email" placeholder="Email">
-                    <input class="inputCadastro" type="text" name="Nome" placeholder="Nome">
-                    <input class="inputCadastro" type="text" name="Username" placeholder="Nome de usuário">
-                    <input class="inputCadastro" type="password" name="Senha" placeholder="Senha">
+                    <input class="inputCadastro" type="email" name="Email" placeholder="Email" required
+                    <input class="inputCadastro" type="text" name="Nome" placeholder="Nome" required>
+                    <input class="inputCadastro" type="text" name="Username" placeholder="Nome de usuário" required>
+                    <input class="inputCadastro" type="password" name="Senha" placeholder="Senha" required>
                     <div class="Imagem">
                             <div class="buttonImagem">
                                 @* @foreach (Cadastro img in ViewBag.Cadastros){
                                     <img src="/img/@img.Imagem" alt="Imagem da equipe @img.Username" width="40">
                                 }       *@
                                 <label for='Imagem'>Foto de perfil</label>
-                                <input class="inputImagem" type="file" name="Imagem" id= "Imagem" for="Imagem" />
+                                <input class="inputImagem" type="file" name="Imagem" id= "Imagem" for="Imagem" required />
                             </div>
                         </div>
                 </div>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD - Copia\\G4_InstaDev_Projeto1SD.csproj": {}
+    "C:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\G4_InstaDev_Projeto1SD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD - Copia\\G4_InstaDev_Projeto1SD.csproj": {
+    "C:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\G4_InstaDev_Projeto1SD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD - Copia\\G4_InstaDev_Projeto1SD.csproj",
+        "projectUniqueName": "C:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\G4_InstaDev_Projeto1SD.csproj",
         "projectName": "G4_InstaDev_Projeto1SD",
-        "projectPath": "C:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD - Copia\\G4_InstaDev_Projeto1SD.csproj",
+        "projectPath": "C:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\G4_InstaDev_Projeto1SD.csproj",
         "packagesPath": "C:\\Users\\ggnes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD - Copia\\obj\\",
+        "outputPath": "C:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ggnes\\AppData\\Roaming\\NuGet\\NuGet.Config"
