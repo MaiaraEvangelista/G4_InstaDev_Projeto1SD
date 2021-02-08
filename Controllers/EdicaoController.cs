@@ -5,49 +5,20 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace G4_InstaDev_Projeto1SD.Controllers
 {
-    [Route("Perfil")]
-    public class PerfilController : Controller
+
+    [Route("Edicao")]
+    public class EdicaoController : Controller
     {
-
         public const string PATH = "Database/Cadastro.csv";
-
         Cadastro infoscadastro = new Cadastro();
-
-        Perfil perfil = new Perfil();
-        public IActionResult Index()
-        {
-            ViewBag.Perfil = perfil.ReadAll();
-            ViewBag._UserName = HttpContext.Session.GetString("_UserName");
-            ViewBag._Name = HttpContext.Session.GetString("_Name");
-            ViewBag._Img = HttpContext.Session.GetString("_Img");
-            ViewBag._Email = HttpContext.Session.GetString("_Email");
+        
+        public IActionResult Index(){
 
             return View();
-        
+
         }
-
-
-        [Route("Comentar")]
-        public IActionResult Comentar(IFormCollection form)
-        {
-            Perfil newperfil = new Perfil();
-            newperfil.Coments= form["comentario"];
-
-            perfil.Create(newperfil);
-            ViewBag.Perfil = perfil.ReadAll();
-
-            return LocalRedirect("~/Perfil");
-        }
-
-        [Route("Perfil/{id}")]
-        public IActionResult Excluir(int id)
-        {
-            perfil.Delete(id);
-            ViewBag.Perfil = perfil.ReadAll();
-            return LocalRedirect("~/Perfil");
-        }
-
-
+    
+    
         [Route("Atualizar")]
         public IActionResult Update (IFormCollection forms){
 
@@ -81,9 +52,9 @@ namespace G4_InstaDev_Projeto1SD.Controllers
 
             }
 
-            return Redirect("~/Home/Login");
+            return Redirect("~/Perfil");
 
         }
-
+    
     }
 }

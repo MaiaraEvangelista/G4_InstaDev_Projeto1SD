@@ -15613,6 +15613,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\vinyl\\OneDrive\\Área de Trabalho\\G4_InstaDev_Projeto1SD\\Views\\Edicao\\Index.cshtml",
+      "TargetPath": "Views\\Edicao\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\vinyl\\OneDrive\\Área de Trabalho\\G4_InstaDev_Projeto1SD\\Views\\Shared\\_Layout2.cshtml",
       "TargetPath": "Views\\Shared\\_Layout2.cshtml",
       "FileKind": "mvc"
@@ -15630,6 +15635,11 @@
     {
       "FilePath": "c:\\Users\\vinyl\\OneDrive\\Área de Trabalho\\G4_InstaDev_Projeto1SD\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vinyl\\OneDrive\\Área de Trabalho\\G4_InstaDev_Projeto1SD\\Views\\Shared\\_LayoutEdicao.cshtml",
+      "TargetPath": "Views\\Shared\\_LayoutEdicao.cshtml",
       "FileKind": "mvc"
     },
     {

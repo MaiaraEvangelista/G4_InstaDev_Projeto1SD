@@ -223,3 +223,5 @@ C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.
 C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\ref\G4_InstaDev_Projeto1SD.dll
 C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.genruntimeconfig.cache
 C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.csproj.CopyComplete
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Edicao\Index.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_LayoutEdicao.cshtml.g.cs
