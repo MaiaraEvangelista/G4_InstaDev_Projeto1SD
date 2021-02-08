@@ -14,13 +14,19 @@ namespace G4_InstaDev_Projeto1SD.Controllers
         Cadastro infoscadastro = new Cadastro();
 
         Perfil perfil = new Perfil();
+        Cadastro cadastro = new Cadastro();
         public IActionResult Index()
         {
             ViewBag.Perfil = perfil.ReadAll();
+            ViewBag.Cadastros = cadastro.ReadAll();
+
             ViewBag._UserName = HttpContext.Session.GetString("_UserName");
             ViewBag._Name = HttpContext.Session.GetString("_Name");
             ViewBag._Img = HttpContext.Session.GetString("_Img");
+<<<<<<< HEAD
             ViewBag._Email = HttpContext.Session.GetString("_Email");
+=======
+>>>>>>> 7d987b5888fb6705f22b8789297b328da1321830
 
             return View();
         
@@ -32,6 +38,7 @@ namespace G4_InstaDev_Projeto1SD.Controllers
         {
             Perfil newperfil = new Perfil();
             newperfil.Coments= form["comentario"];
+            newperfil.Name= form["Nomes"];
 
             perfil.Create(newperfil);
             ViewBag.Perfil = perfil.ReadAll();

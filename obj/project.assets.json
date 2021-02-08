@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\vinyl\\.nuget\\packages\\": {}
+    "C:\\Users\\ggnes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinyl\\OneDrive\\Área de Trabalho\\G4_InstaDev_Projeto1SD\\G4_InstaDev_Projeto1SD.csproj",
+      "projectUniqueName": "C:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\G4_InstaDev_Projeto1SD.csproj",
       "projectName": "G4_InstaDev_Projeto1SD",
-      "projectPath": "C:\\Users\\vinyl\\OneDrive\\Área de Trabalho\\G4_InstaDev_Projeto1SD\\G4_InstaDev_Projeto1SD.csproj",
-      "packagesPath": "C:\\Users\\vinyl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinyl\\OneDrive\\Área de Trabalho\\G4_InstaDev_Projeto1SD\\obj\\",
+      "projectPath": "C:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\G4_InstaDev_Projeto1SD.csproj",
+      "packagesPath": "C:\\Users\\ggnes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vinyl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ggnes\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

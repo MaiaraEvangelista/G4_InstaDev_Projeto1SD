@@ -93,7 +93,7 @@
 
                     <div class="coments">
                         <div class="title">
-                            <h6>@ViewBag._UserName</h6>
+                            <h6>@x.Name</h6>
                         </div>
                         <div class="txt">
                         <p>@x.Coments</p>
@@ -105,6 +105,14 @@
 
                     <div class="coments2">
                         <form method="POST" action='@Url.Action("Comentar")'>
+                            <Select class="comentario2" name="Nomes" id="Nomes">
+                                <option>Nome do Usuário</option>
+                                @foreach (var z in ViewBag.cadastros)
+                                {
+                                    <option value="@z.Username">@z.Username</option>
+                                }
+                            </Select>
+
                             <input name="comentario" class="comentario" placeholder="Digite aqui" type="text">
                             <button type="submit" class="bbtn">Comentar...</button>
                         </form>

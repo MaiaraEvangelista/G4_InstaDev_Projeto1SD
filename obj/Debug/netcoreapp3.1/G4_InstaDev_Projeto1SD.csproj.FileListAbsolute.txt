@@ -20,6 +20,8 @@ C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_
 C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.TagHelpers.output.cache
 C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.RazorCoreGenerate.cache
 C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs

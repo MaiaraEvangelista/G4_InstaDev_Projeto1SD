@@ -11,6 +11,7 @@ namespace G4_InstaDev_Projeto1SD.Models
 
         public int IdComentarios { get; set; }
         public string Coments { get; set; }
+        public string Name { get; set; }
 
         private const string PATH = "DataBase/Perfil.csv";
 
@@ -21,7 +22,7 @@ namespace G4_InstaDev_Projeto1SD.Models
 
         public string linha(Perfil y)
         {
-                return $"{y.Coments};{y.IdComentarios};";
+                return $"{y.Coments};{y.IdComentarios};{y.Name}";
         }
         public void Create(Perfil x)
         {
@@ -61,8 +62,9 @@ namespace G4_InstaDev_Projeto1SD.Models
                 string[] sep = item.Split(';');
 
                 Perfil perfil = new Perfil();
-                perfil.Coments = sep[0];
-                perfil.IdComentarios = int.Parse(sep[1]);
+                perfil.Coments =        sep[0];
+                perfil.IdComentarios =  int.Parse(sep[1]);
+                perfil.Name =           sep[2];
 
                 perf.Add(perfil);
             }

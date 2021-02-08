@@ -15663,6 +15663,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\vinyl\\OneDrive\\Área de Trabalho\\G4_InstaDev_Projeto1SD\\Views\\Feed\\Index.cshtml",
+      "TargetPath": "Views\\Feed\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\vinyl\\OneDrive\\Área de Trabalho\\G4_InstaDev_Projeto1SD\\Views\\Perfil\\Index.cshtml",
       "TargetPath": "Views\\Perfil\\Index.cshtml",
       "FileKind": "mvc"
