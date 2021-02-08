@@ -49,7 +49,7 @@ namespace G4_InstaDev_Projeto1SD.Controllers
                 HttpContext.Session.SetString("_Name", logado.Split(";")[1]);
                 HttpContext.Session.SetString("_Img", logado.Split(";")[4]);
 
-                return Redirect("~/Perfil");
+                return Redirect("~/Edicao");
   
             }
 
