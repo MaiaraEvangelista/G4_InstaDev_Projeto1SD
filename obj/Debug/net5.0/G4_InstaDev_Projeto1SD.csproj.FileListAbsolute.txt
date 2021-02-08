@@ -1,0 +1,229 @@
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\appsettings.json
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.exe
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.deps.json
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.runtimeconfig.json
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.runtimeconfig.dev.json
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.dll
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\ref\G4_InstaDev_Projeto1SD.dll
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.pdb
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.Views.dll
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.Views.pdb
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.AssemblyInfo.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorAssemblyInfo.cache
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorAssemblyInfo.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\staticwebassets\G4_InstaDev_Projeto1SD.StaticWebAssets.Manifest.cache
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\staticwebassets\G4_InstaDev_Projeto1SD.StaticWebAssets.xml
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\scopedcss\bundle\G4_InstaDev_Projeto1SD.styles.css
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.TagHelpers.input.cache
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.TagHelpers.output.cache
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorCoreGenerate.cache
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Cadastro\Index.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Home\Indexold.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_LayoutCadastro.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorTargetAssemblyInfo.cache
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorTargetAssemblyInfo.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.Views.pdb
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.dll
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\ref\G4_InstaDev_Projeto1SD.dll
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.pdb
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.genruntimeconfig.cache
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.csproj.CopyComplete
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.pdb
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\appsettings.json
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.exe
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.deps.json
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.runtimeconfig.json
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.runtimeconfig.dev.json
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.dll
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\ref\G4_InstaDev_Projeto1SD.dll
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.pdb
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.Views.dll
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.Views.pdb
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.AssemblyInfo.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorAssemblyInfo.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorAssemblyInfo.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\staticwebassets\G4_InstaDev_Projeto1SD.StaticWebAssets.Manifest.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\staticwebassets\G4_InstaDev_Projeto1SD.StaticWebAssets.xml
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\scopedcss\bundle\G4_InstaDev_Projeto1SD.styles.css
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.TagHelpers.input.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.TagHelpers.output.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorCoreGenerate.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Cadastro\Index.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Home\Indexold.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_LayoutCadastro.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorTargetAssemblyInfo.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorTargetAssemblyInfo.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.Views.pdb
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.dll
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\ref\G4_InstaDev_Projeto1SD.dll
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.genruntimeconfig.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.csproj.CopyComplete
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\bin\Debug\net5.0\appsettings.json
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.exe
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.deps.json
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.runtimeconfig.json
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.runtimeconfig.dev.json
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.dll
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\bin\Debug\net5.0\ref\G4_InstaDev_Projeto1SD.dll
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.pdb
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.Views.dll
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.Views.pdb
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.csprojAssemblyReference.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.AssemblyInfoInputs.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.AssemblyInfo.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.csproj.CoreCompileInputs.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorAssemblyInfo.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorAssemblyInfo.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\staticwebassets\G4_InstaDev_Projeto1SD.StaticWebAssets.Manifest.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\staticwebassets\G4_InstaDev_Projeto1SD.StaticWebAssets.xml
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\scopedcss\bundle\G4_InstaDev_Projeto1SD.styles.css
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.TagHelpers.input.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.TagHelpers.output.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorCoreGenerate.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\Razor\Views\Cadastro\Index.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\Razor\Views\Home\Indexold.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\Razor\Views\Shared\_LayoutCadastro.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorTargetAssemblyInfo.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorTargetAssemblyInfo.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.Views.pdb
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.dll
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\ref\G4_InstaDev_Projeto1SD.dll
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.pdb
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.genruntimeconfig.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD - Copia\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.csproj.CopyComplete
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\appsettings.json
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.exe
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.deps.json
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.runtimeconfig.json
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.runtimeconfig.dev.json
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.dll
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\ref\G4_InstaDev_Projeto1SD.dll
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.pdb
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.Views.dll
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.Views.pdb
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.csprojAssemblyReference.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.AssemblyInfoInputs.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.AssemblyInfo.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.csproj.CoreCompileInputs.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorAssemblyInfo.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorAssemblyInfo.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\staticwebassets\G4_InstaDev_Projeto1SD.StaticWebAssets.Manifest.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\staticwebassets\G4_InstaDev_Projeto1SD.StaticWebAssets.xml
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\scopedcss\bundle\G4_InstaDev_Projeto1SD.styles.css
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.TagHelpers.input.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.TagHelpers.output.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorCoreGenerate.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Cadastro\Index.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_LayoutCadastro.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorTargetAssemblyInfo.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorTargetAssemblyInfo.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.Views.pdb
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.dll
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\ref\G4_InstaDev_Projeto1SD.dll
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.pdb
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.genruntimeconfig.cache
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.csproj.CopyComplete
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.pdb
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\appsettings.json
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.exe
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.deps.json
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.runtimeconfig.dev.json
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.dll
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\ref\G4_InstaDev_Projeto1SD.dll
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.pdb
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.Views.dll
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\net5.0\G4_InstaDev_Projeto1SD.Views.pdb
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.csprojAssemblyReference.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorAssemblyInfo.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorAssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\staticwebassets\G4_InstaDev_Projeto1SD.StaticWebAssets.Manifest.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\staticwebassets\G4_InstaDev_Projeto1SD.StaticWebAssets.xml
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\scopedcss\bundle\G4_InstaDev_Projeto1SD.styles.css
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.TagHelpers.input.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.TagHelpers.output.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorCoreGenerate.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Cadastro\Index.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Home\Indexold.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_LayoutCadastro.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorTargetAssemblyInfo.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorTargetAssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.Views.pdb
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.dll
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\ref\G4_InstaDev_Projeto1SD.dll
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.genruntimeconfig.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.csproj.CopyComplete
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Feed\Index.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Edição\Index.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_Layout3.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Edicao\Index.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_LayoutEdicao.cshtml.g.cs

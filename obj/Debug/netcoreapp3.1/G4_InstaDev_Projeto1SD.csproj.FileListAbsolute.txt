@@ -1,0 +1,128 @@
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.exe
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.deps.json
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.runtimeconfig.json
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.runtimeconfig.dev.json
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.dll
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.pdb
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.Views.dll
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.Views.pdb
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.csprojAssemblyReference.cache
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\staticwebassets\G4_InstaDev_Projeto1SD.StaticWebAssets.Manifest.cache
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\staticwebassets\G4_InstaDev_Projeto1SD.StaticWebAssets.xml
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.RazorAssemblyInfo.cache
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.RazorAssemblyInfo.cs
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.AssemblyInfo.cs
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.TagHelpers.input.cache
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.TagHelpers.output.cache
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.RazorCoreGenerate.cache
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.RazorTargetAssemblyInfo.cache
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.RazorTargetAssemblyInfo.cs
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.Views.pdb
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.dll
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.pdb
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.csproj.CopyComplete
+C:\Users\FIC\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Cadastro\Index.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.exe
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.deps.json
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.runtimeconfig.json
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.runtimeconfig.dev.json
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.dll
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.pdb
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.Views.dll
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.Views.pdb
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.AssemblyInfo.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.RazorAssemblyInfo.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.RazorAssemblyInfo.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.TagHelpers.input.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.TagHelpers.output.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.RazorCoreGenerate.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.RazorTargetAssemblyInfo.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.RazorTargetAssemblyInfo.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.Views.pdb
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\staticwebassets\G4_InstaDev_Projeto1SD.StaticWebAssets.Manifest.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\staticwebassets\G4_InstaDev_Projeto1SD.StaticWebAssets.xml
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.dll
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.pdb
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.genruntimeconfig.cache
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.csproj.CopyComplete
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Cadastro\Index.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.exe
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.deps.json
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.runtimeconfig.dev.json
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.dll
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.pdb
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.Views.dll
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\bin\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.Views.pdb
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.csprojAssemblyReference.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.RazorAssemblyInfo.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.RazorAssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.TagHelpers.input.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.TagHelpers.output.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.RazorCoreGenerate.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Cadastro\Index.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.RazorTargetAssemblyInfo.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.RazorTargetAssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.Views.pdb
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\staticwebassets\G4_InstaDev_Projeto1SD.StaticWebAssets.Manifest.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\staticwebassets\G4_InstaDev_Projeto1SD.StaticWebAssets.xml
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.dll
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.pdb
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.genruntimeconfig.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.csproj.CopyComplete
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutCadastro.cshtml.g.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Indexold.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Indexold.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutCadastro.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\adm\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\scopedcss\bundle\G4_InstaDev_Projeto1SD.styles.css
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Indexold.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutCadastro.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\fic\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\netcoreapp3.1\G4_InstaDev_Projeto1SD.genruntimeconfig.cache

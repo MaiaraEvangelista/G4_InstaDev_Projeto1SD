@@ -1,0 +1,187 @@
+body{
+    margin: 0;
+    top: 0;
+    background-color: rgb(247, 247, 247);
+}
+.body{
+    width: 100%;
+    height: 105vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content{
+    height: 480px;
+    width: 342px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 3px;
+    background-color: white;
+}
+.logoPage{
+    transform: rotate(270deg);
+    width: 80px;
+    margin-top: -50px;
+}
+.body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.textoCadastro{
+    display: flex;
+    flex-wrap: wrap;
+    width: 215px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color: #909090;
+    margin-top: -47px;
+    margin-bottom: 10px;
+}
+.textoCadastro p {
+
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+
+}
+.textoCadastro2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 254px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    color: #909090;
+}
+.inputs{
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.inputCadastro{
+    width: 260px;
+    height: 35px;
+    background-color: #FAFAFA;
+    box-shadow: 0 0 0 0;
+    border: 2px solid rgb(230, 230, 230);
+    border-radius: 3px;
+    outline: 0;
+    font-size: 11px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+    color: rgb(155, 155, 155);
+}
+.inputImagem{
+    display: none;
+}
+label {
+    background-color: #b6b6b6;
+    border-radius: 3px;
+    box-shadow: #858585 solid 3px;
+    color: #fff;
+    cursor: pointer;
+    width: 110px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-align: center;
+}
+.buttonImagem{
+    width: 275px;
+    height: 35px;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    /* background-color: #145564; */
+    margin-top: 8px;
+    justify-content: space-around;
+}
+.buttonImagem p {
+    text-align: center;
+    font-size: 13px;
+}
+.buttonCadastro{
+    width: 260px;
+    height: 30px;
+    background-color: #2686CC;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    border-radius: 3px;
+    display: flex;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.errorcad {
+    /* background-color: grey; */
+    color: red;
+    text-align: center;
+    width: 260px;
+    padding: 1rem 0;
+    font-family: 'Segoe UI', Tahoma;
+}
+.container2{
+    width: 100%;
+    max-width: 342px;
+    height: 68px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 3px;
+    background-color: white;
+}
+.textoLoginCadastro{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-around;
+    width: 160px;
+    color: #353535;
+    align-items: center;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 8px;
+}
+.textoLoginCadastro p{
+
+    margin-bottom: 0;
+
+}
+.textoLoginCadastro a{
+    text-decoration: none;
+    color: #2686CC;
+    font-weight: bolder;
+    margin-top: 12px;
+}
+.container3 img{
+    width: 130px;
+}
+.container3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #909090;
+}
+.container3 p {
+
+    margin-top: 1.5rem;
+
+}
+.imagensContainer3{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}

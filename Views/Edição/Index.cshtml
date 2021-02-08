@@ -1,0 +1,58 @@
+@model Views_Edicao_Index
+
+@{
+ViewData["Title"] = "Edição de Perfil";
+}
+ 
+ <section>
+        <div class="content">
+            <div class="Con">
+            <div class="titleEditarPerfil">
+                <hr>
+                <p>Editar Perfil</p>
+            </div>
+            <div class="conteudo">
+
+                <div class="box1">
+                    <div class="imagemBox1">
+                        <img src="img/thank-you 3.png" alt="" >
+                    </div>
+                    <div class="textoBox1">
+                    <h1>yes_baby</h1>
+                    <a href="#">Alterar foto do perfil</a>
+                    </div>
+                    
+                </div>
+
+                <div class="box2">
+                    <h1>Nome</h1>
+                <div class="textoBox2">
+                    <input class="inputEdicaoPerfil" type="text" name="Nome" placeholder="Nome" value="Marcos Jeeves">
+                    <p>Ajude as pessoas a descobrir sua conta usando o nome pelo qual você é conhecido: seu nome completo, apelido ou nome comercial.</p>
+                    <p>Você pode alterar o seu nome apenas duas vezes a cada 14 dias.</p>
+                </div>
+                </div>
+                
+                <div class="box3">
+                    <h1>Nome de usuário</h1>
+                <div class="textoBox3">
+                    <input class="inputEdicaoPerfil" type="text" name="Username" placeholder="Nome de usuário" value="yes_baby">
+                    <p>Ajude as pessoas a descobrir sua conta usando o nome pelo qual você é conhecido: seu nome completo, apelido ou nome comercial.</p>
+                </div>
+                </div>
+
+                <div class="box4">
+                    <h1>Email</h1>
+                <div class="textoBox4">
+                    <h4>Informações pessoais</h4>
+                    <p>Forneça suas informações pessoais, mesmo se a conta for usada para uma empresa, um animal de estimação ou outra coisa. Elas não farão parte do seu perfil público.</p>
+                    <input class="inputEdicaoPerfil" type="email" name="Email" placeholder="Email" value="yes_baby@email.com">
+                </div>
+                </div>
+                <div class="box5">
+                    <button type="submit">Enviar</button>
+                    <a href="#">Desativar minha conta definitivamente</a>
+                </div>
+            </div>
+        </div>
+        </section>

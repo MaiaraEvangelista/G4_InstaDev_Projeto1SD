@@ -1,0 +1,124 @@
+@model Perfil
+
+@{
+    ViewData["Title"] = "Perfil";
+}
+
+ <main class="corpo">
+        
+        <section class="perfil">
+
+            <div class="pp">
+
+                <div class="foto-perfil">
+                    <div class="circulo">
+                        <img style="border-radius: 100%;" src="Img/Perfis/@ViewBag._Img" alt="foto de perfil">
+                    </div>
+                </div>
+
+                <div class="inf">
+                    <div class="nome">
+                        <p>@ViewBag._UserName</p>
+                    </div>
+
+                    <div class="nume">
+                        <p class="est">1 Publicação</p>
+                        <p class="est">0 seguindo</p>
+                        <p class="est">0 seguidores</p>
+                    </div>
+
+                    <div class="nume">
+                        <p class="est">@ViewBag._Name</p>
+                        <a asp-controller="Home" asp-action="Logout" >Sair</a>
+                        <a asp-controller="Edicao" asp-action="Index">Editar Perfil</a>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+        
+        <div class="linha"></div>
+
+        <div class="pub">
+            <div class="pub-img">
+                <img src="img/image 1.png" alt="">
+                <p>Publicações</p>
+            </div>
+        </div>
+
+        <br></br>
+        <section class="publicacao">
+            
+            <div class="publi">
+
+                <div class="publi-pub">
+                    <img src="img/Perfis/@ViewBag._Img" >
+                </div>
+
+                <div class="inf-pub">
+                    
+                    <div class="inf-pub-img">
+
+                        <div class="ball">
+                            <div class="boll">
+                                <img style="border-radius: 100%;" src="Img/Perfis/@ViewBag._Img" alt="">
+                            </div>
+                        </div>
+
+                        <div class="meio">
+                            <div class="meio-1">
+                                <h4>@ViewBag._Name</h4>
+                            </div>
+                        </div>
+                    </div>
+                        
+
+                    <div class="botao">
+                            <div class="content-txt">
+                                    <div class="content-heart">
+                                        <i onclick="Toggle()" id="btn" class="far fa-heart"></i>
+                                    </div>
+                                    <span class="numb"></span>
+                                    <span class="text">Curtidas</span>
+                                </div>
+                            </div>
+
+                        @foreach (Perfil x in ViewBag.Perfil)
+                        {
+
+                    <div class="coments">
+                        <div class="title">
+                            <h6>@x.Name</h6>
+                        </div>
+                        <div class="txt">
+                        <p>@x.Coments</p>
+                        <p class="delet"><a class="delete" asp-controller="Perfil" asp-action="Excluir" asp-route-id="@x.IdComentarios"><img class="delete-img" src="img/lixo.png"></a></p>
+                        </div>
+                    </div>
+                    
+                        }
+
+                    <div class="coments2">
+                        <form method="POST" action='@Url.Action("Comentar")'>
+                            <Select class="comentario2" name="Nomes" id="Nomes" required>
+                                <option>Nome do Usuário</option>
+                                @foreach (var z in ViewBag.cadastros)
+                                {
+                                    <option value="@z.Username">@z.Username</option>
+                                }
+                            </Select>
+
+                            <input name="comentario" class="comentario" placeholder="Digite aqui" type="text" required>
+                            <button type="submit" class="bbtn">Comentar...</button>
+                        </form>
+                    </div>
+
+                </div>
+                
+            </div>
+
+        </section>
+
+    </main>

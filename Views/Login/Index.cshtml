@@ -1,0 +1,71 @@
+@using G4_InstaDev_Projeto1SD.Models
+
+@{
+    ViewData["Title"] = "Home Page2";
+}
+
+@{
+    Layout = "_LayoutLogin";
+}
+
+<body>
+
+    <div class="login-all">
+        
+        <div class="login-content">
+
+            <div class="login">
+
+                <p> <img src="/img/Instadev.svg" alt=""> </p>
+                <form method="POST" class="dados-login" action='@Url.Action("Login")'>
+                    
+                    <input class="box" type="text" placeholder="Email ou Nome de usuário" name="emaildigitado" required />
+                    <input class="box" type="password" placeholder="Senha" name="senhadigitada" required />
+                    <button class="box" type="submit"> LOGIN </button>
+                    
+
+                </form>
+
+                <div class="erro">@TempData.Peek("Mensagem")</div>
+
+                <div class="or"> 
+                
+                    <div> <hr class="line"> </div> 
+                
+                        <p> OU </p> 
+                
+                    <div> <hr class="line"> </div>
+                
+                </div>
+                
+                <div class="recuperacao">
+
+                    <a href="#">Esqueceu a Senha?</a>
+                
+                </div>
+                
+            </div>
+            
+            <div class="cadastro-content">
+                
+                <p> Não tem uma conta? <a asp-controller="Cadastro" asp-action="Index"> Cadastre-se </a> </p>
+                
+            </div>
+            
+            <div class="download">
+                
+                <p>Obtenha o aplicativo.</p>
+                
+                <div class="lojas">
+                    
+                    <a href="https://apps.apple.com/br/app/instagram/id389801252"> <img src="/img/app_store 1.svg" alt="Link para download na app store"></a>
+                    <a href="https://play.google.com/store/apps/details?id=com.instagram.android&hl=pt_BR&gl=US"> <img src="/img/google_play 1.svg" alt="Link para download na play store"> </a>
+                    
+                </div>
+                
+            </div>
+        </div>
+    </div>
+        
+    </body>
+    </html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Edição de Perfil</title>
+    <link rel="stylesheet" href="css/styleedicao.css">
+
+</head>
+<main>
+    <header class="cabeca">
+        <div class="cabecalho">
+
+            <div class="logo">
+                <img class="log" src="img/Instadev.svg" alt="Instadev">
+            </div>
+
+            <div class="pesquisa">
+                <input class="pesq" placeholder="Pesquisar" type="text">
+                <img class="lupa" src="img/Vector.svg" alt="">
+            </div>
+
+            <div class="bol">
+                <div class="bolinhas">
+                    <a class="ajuste" style="height: 80%;" href="#"> <img src="img/Home.svg" alt=""> </a>
+                    <a class="ajuste" style="height: 80%;" href="#"> <img src="img/plane 1.svg" alt=""> </a>
+                    <a class="ajuste" style="height: 80%;" href="#"> <img src="img/compass 1.svg" alt=""> </a>
+                    <a class="ajuste" style="height: 70%;" href="#"> <img src="img/heart.svg" alt=""> </a>
+                    <a class="bola ajuste" href="#"> <img src="img/thank-you 3.png" alt=""></a>
+                </div>
+            </div>
+
+        </div>
+    </header>
+</main>
+<div class="container">
+
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+
+</div>

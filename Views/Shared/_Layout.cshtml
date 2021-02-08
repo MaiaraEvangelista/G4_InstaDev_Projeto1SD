@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    @* <meta name="viewport" content="width=device-width, initial-scale=1.0" /> *@
+    <title>@ViewData["Title"] - G4_InstaDev_Projeto1SD</title>
+    @* <link rel="stylesheet" href="~/css/style.css"/> *@
+    <script src="https://kit.fontawesome.com/21c24c8b77.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <link rel="stylesheet" href="~/css/index.css" />
+    <link rel="stylesheet" href="css/styleedicao.css">
+</head>
+
+<body>
+    
+    <header class="cabeca">
+        <div class="cabecalho">
+
+            <div class="logo">
+                 <a asp-controller="Home" asp-action="Index"><img class="log" style="width: 130%;"  src="img/Instadev.png" alt="Instadev"></a>
+            </div>
+
+            <div class="pesquisa">
+                <input class="pesq" placeholder="Pesquisar" type="text">
+                <img class="lupa" src="img/lupa.png" alt="">
+            </div>
+
+            <div class="bol">
+                <div class="bolinhas">
+                   <a class="ajuste" style="height: 80%;" asp-controller="Home" asp-action="Index"> <img src="img/Vector.png" alt=""> </a>
+                   <a class="ajuste" style="height: 80%;" href="#"> <img src="img/plane 1.png" alt=""> </a>
+                   <a class="ajuste" style="height: 80%;" href="#"> <img src="img/compass 1.png" alt=""> </a>
+                   <a class="ajuste" style="height: 70%;" href="#"> <img src="img/heart.png" alt=""> </a>
+                    <a class="bola ajuste" asp-controller="Perfil" asp-action="Index"> <img src="img/Perfis/@ViewBag._Img" alt=""></a>
+                </div>
+            </div>
+
+        </div>
+    </header>
+    
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+   
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
