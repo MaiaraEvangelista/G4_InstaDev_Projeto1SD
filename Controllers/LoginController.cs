@@ -11,15 +11,18 @@ namespace G4_InstaDev_Projeto1SD.Controllers
 
     public class LoginController : Controller
     {
-        public string Mensagem { get; set; }
+ 
         Cadastro cadastroModel = new Cadastro();
         Login novoLogin = new Login();
         public const string PATH = "Database/Cadastro.csv";
 
+        [TempData]
+        public string Mensagem { get; set; }
 
         [Route("Login")]
         public IActionResult Index() {
             //Index é a tela de login
+
 
             return View();
         }
@@ -32,8 +35,8 @@ namespace G4_InstaDev_Projeto1SD.Controllers
             var logado = 
             csv.Find(
                 x => 
-                x.Split(";")[0] == form["emaildigitado"] ||
-                x.Split(";")[2] == form["emaildigitado"] &&
+                // x.Split(";")[0] == form["emaildigitado"] ||
+                x.Split(";")[0] == form["emaildigitado"] &&
                 x.Split(";")[3] == form["senhadigitada"]
             );  
 

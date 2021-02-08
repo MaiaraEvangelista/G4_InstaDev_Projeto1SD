@@ -110,12 +110,9 @@ input{
 
     background-color: none;
     border: none;
-<<<<<<< HEAD
     justify-content: center;
     padding-right: 15px;
-=======
     padding-left: 0;
->>>>>>> 6159f16c0ed4b7f147dcf6989c83bce21ba4fa58
 
 }
 
@@ -127,6 +124,15 @@ input{
     border: var(--azul);
     color: white;
 
+}
+
+.erro {
+    /* background-color: grey; */
+    width: 267px;
+    color: red;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma;
+    padding-bottom: 1rem;
 }
 
 .or{
