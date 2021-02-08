@@ -225,3 +225,5 @@ C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Feed\Index.cshtml.g.cs
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Edição\Index.cshtml.g.cs
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_Layout3.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Edicao\Index.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_LayoutEdicao.cshtml.g.cs

@@ -23,10 +23,7 @@ namespace G4_InstaDev_Projeto1SD.Controllers
             ViewBag._UserName = HttpContext.Session.GetString("_UserName");
             ViewBag._Name = HttpContext.Session.GetString("_Name");
             ViewBag._Img = HttpContext.Session.GetString("_Img");
-<<<<<<< HEAD
             ViewBag._Email = HttpContext.Session.GetString("_Email");
-=======
->>>>>>> 7d987b5888fb6705f22b8789297b328da1321830
 
             return View();
         
