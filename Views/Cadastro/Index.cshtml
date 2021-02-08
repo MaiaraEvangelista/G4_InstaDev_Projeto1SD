@@ -22,7 +22,7 @@
                     <p>Cadastre-se para ver fotos e vídeos dos seus amigos.</p>
                 </div>
                 <div class="inputs">
-                    <input class="inputCadastro" type="email" name="Email" placeholder="Email" required
+                    <input class="inputCadastro" type="email" name="Email" placeholder="Email" required>
                     <input class="inputCadastro" type="text" name="Nome" placeholder="Nome" required>
                     <input class="inputCadastro" type="text" name="Username" placeholder="Nome de usuário" required>
                     <input class="inputCadastro" type="password" name="Senha" placeholder="Senha" required>
@@ -32,13 +32,16 @@
                                     <img src="/img/@img.Imagem" alt="Imagem da equipe @img.Username" width="40">
                                 }       *@
                                 <label for='Imagem'>Foto de perfil</label>
-                                <input class="inputImagem" type="file" name="Imagem" id= "Imagem" for="Imagem" required />
+                                <input class="inputImagem" type="file" name="Imagem" id= "Imagem" for="Imagem" />
                             </div>
                         </div>
                 </div>
                 <button class="buttonCadastro">
-                    <a asp-controller="" asp-action=""></a> Cadastre-se
+                    <a asp-controller="Login" asp-action="Index" ></a> Cadastre-se
                 </button>
+
+                <div class="errorcad"> @TempData.Peek("errorcad") </div>
+
                 <div class="textoCadastro2">
                     <p>Ao se cadastrar, você concorda com nossos Termos, Política de Dados e Política de Cookies. </p>
                 </div>

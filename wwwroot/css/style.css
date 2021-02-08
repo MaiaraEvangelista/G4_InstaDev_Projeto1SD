@@ -121,6 +121,14 @@ label {
     justify-content: center;
     margin-top: 20px;
 }
+.errorcad {
+    /* background-color: grey; */
+    color: red;
+    text-align: center;
+    width: 260px;
+    padding: 1rem 0;
+    font-family: 'Segoe UI', Tahoma;
+}
 .container2{
     width: 100%;
     max-width: 342px;
