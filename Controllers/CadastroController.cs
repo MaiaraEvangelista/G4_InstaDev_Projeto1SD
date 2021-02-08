@@ -28,7 +28,7 @@ namespace G4_InstaDev_Projeto1SD.Controllers
         public IActionResult Cadastrao (IFormCollection form){
             Cadastro novoCadastro   = new Cadastro();
             
-            novoCadastro.Email = form["Email"];
+            novoCadastro.Email  = form["Email"];
             novoCadastro.Nome     = form["Nome"];
             novoCadastro.Username = form["Username"];
             novoCadastro.Senha     = form["Senha"];
