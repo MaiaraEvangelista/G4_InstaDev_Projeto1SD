@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\FIC\\Desktop\\G4_InstaDev_Projeto1SD\\InstaDev.csproj",
+  "FilePath": "c:\\Users\\FIC\\Desktop\\G4_InstaDev_Projeto1SD\\G4_InstaDev_Projeto1SD.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14389,7 +14389,7 @@
     ],
     "CSharpLanguageVersion": 900
   },
-  "RootNamespace": "InstaDev",
+  "RootNamespace": "G4_InstaDev_Projeto1SD",
   "Documents": [
     {
       "FilePath": "c:\\Users\\FIC\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Shared\\Error.cshtml",
@@ -14404,6 +14404,11 @@
     {
       "FilePath": "c:\\Users\\FIC\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\FIC\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Feed\\Index.cshtml",
+      "TargetPath": "Views\\Feed\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

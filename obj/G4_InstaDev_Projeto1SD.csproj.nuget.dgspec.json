@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/maiara/Área de Trabalho/Projeto Final/InstaDev/InstaDev.csproj": {}
+    "C:\\Users\\FIC\\Desktop\\G4_InstaDev_Projeto1SD\\G4_InstaDev_Projeto1SD.csproj": {}
   },
   "projects": {
-    "/home/maiara/Área de Trabalho/Projeto Final/InstaDev/InstaDev.csproj": {
+    "C:\\Users\\FIC\\Desktop\\G4_InstaDev_Projeto1SD\\G4_InstaDev_Projeto1SD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/maiara/Área de Trabalho/Projeto Final/InstaDev/InstaDev.csproj",
-        "projectName": "InstaDev",
-        "projectPath": "/home/maiara/Área de Trabalho/Projeto Final/InstaDev/InstaDev.csproj",
-        "packagesPath": "/home/maiara/.nuget/packages/",
-        "outputPath": "/home/maiara/Área de Trabalho/Projeto Final/InstaDev/obj/",
+        "projectUniqueName": "C:\\Users\\FIC\\Desktop\\G4_InstaDev_Projeto1SD\\G4_InstaDev_Projeto1SD.csproj",
+        "projectName": "G4_InstaDev_Projeto1SD",
+        "projectPath": "C:\\Users\\FIC\\Desktop\\G4_InstaDev_Projeto1SD\\G4_InstaDev_Projeto1SD.csproj",
+        "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FIC\\Desktop\\G4_InstaDev_Projeto1SD\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/home/maiara/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\FIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.405/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace InstaDev
+namespace G4_InstaDev_Projeto1SD
 {
     public class Startup
     {
