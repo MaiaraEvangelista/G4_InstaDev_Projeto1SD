@@ -160,7 +160,6 @@ C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Proje
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.RazorCoreGenerate.cache
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Cadastro\Index.cshtml.g.cs
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Home\Indexold.cshtml.g.cs
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -224,3 +223,5 @@ C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.
 C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.genruntimeconfig.cache
 C:\Users\vinyl\OneDrive\Área de Trabalho\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\G4_InstaDev_Projeto1SD.csproj.CopyComplete
 C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Feed\Index.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Edição\Index.cshtml.g.cs
+C:\Users\ggnes\Desktop\G4_InstaDev_Projeto1SD\obj\Debug\net5.0\Razor\Views\Shared\_Layout3.cshtml.g.cs

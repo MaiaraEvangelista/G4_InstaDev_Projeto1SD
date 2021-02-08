@@ -72,5 +72,15 @@ namespace G4_InstaDev_Projeto1SD.Models
             return perf;
         }
 
+        public void Update(Perfil y)
+        {
+            List<string> linhas = ReadAllLinesCSV(PATH);
+
+            linhas.RemoveAll( x => x.Split(";")[1] == y.IdComentarios.ToString() );
+
+            linhas.Add( linha(y) );
+
+            RewriteCSV(PATH , linhas);
+        }
     }
 }

@@ -8,5 +8,6 @@ namespace G4_InstaDev_Projeto1SD.Interface
          void Create(Perfil x);
         List<Perfil> ReadAll();
         void Delete(int id);
+        void Update(Perfil y);
     }
 }

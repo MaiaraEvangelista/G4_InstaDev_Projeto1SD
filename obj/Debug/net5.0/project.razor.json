@@ -15603,6 +15603,11 @@
   "RootNamespace": "G4_InstaDev_Projeto1SD",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Edição\\Index.cshtml",
+      "TargetPath": "Views\\Edição\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Login\\Index.cshtml",
       "TargetPath": "Views\\Login\\Index.cshtml",
       "FileKind": "mvc"
@@ -15653,11 +15658,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Home\\Indexold.cshtml",
-      "TargetPath": "Views\\Home\\Indexold.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Shared\\_LayoutCadastro.cshtml",
       "TargetPath": "Views\\Shared\\_LayoutCadastro.cshtml",
       "FileKind": "mvc"
@@ -15665,6 +15665,11 @@
     {
       "FilePath": "c:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ggnes\\Desktop\\G4_InstaDev_Projeto1SD\\Views\\Shared\\_Layout3.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout3.cshtml",
       "FileKind": "mvc"
     }
   ],

@@ -30,7 +30,7 @@
                     <div class="nume">
                         <p class="est">@ViewBag._Name</p>
                         <a asp-controller="Home" asp-action="Logout" >Sair</a>
-                        <a href="#">Editar Perfil</a>
+                        <a asp-controller="Perfil" asp-action="Edição">Editar Perfil</a>
                     </div>
 
                 </div>
@@ -71,9 +71,6 @@
                             <div class="meio-1">
                                 <h4>@ViewBag._Name</h4>
                             </div>
-                            <div class="meio-2">
-                                <h5>Rio de Janeiro</h5>
-                            </div>
                         </div>
                     </div>
                         
@@ -105,7 +102,7 @@
 
                     <div class="coments2">
                         <form method="POST" action='@Url.Action("Comentar")'>
-                            <Select class="comentario2" name="Nomes" id="Nomes">
+                            <Select class="comentario2" name="Nomes" id="Nomes" required>
                                 <option>Nome do Usuário</option>
                                 @foreach (var z in ViewBag.cadastros)
                                 {
@@ -113,7 +110,7 @@
                                 }
                             </Select>
 
-                            <input name="comentario" class="comentario" placeholder="Digite aqui" type="text">
+                            <input name="comentario" class="comentario" placeholder="Digite aqui" type="text" required>
                             <button type="submit" class="bbtn">Comentar...</button>
                         </form>
                     </div>
