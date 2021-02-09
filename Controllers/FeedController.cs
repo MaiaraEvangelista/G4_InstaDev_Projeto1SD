@@ -26,10 +26,33 @@ namespace G4_InstaDev_Projeto1SD.Controllers
             novoPostar.Legenda = form["Legenda"];
             novoPostar.Imagem = form["Imagem"];
 
-            postModel.Create( novoPostar );
-            ViewBag.Postar = postModel.ReadAll();
 
+            if (form.Files.Count > 0)
+            {
+                var file = form.Files[0];
+                var folder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Posts");
+
+                if (!Directory.Exists(folder))
+                {
+                    Directory.CreateDirectory(folder);
+                }
+   
+                var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/", folder, file.FileName);
+
+                using (var stream = new FileStream(path, FileMode.Create))
+                {
+                    file.CopyTo(stream);
+                }
+                novoPostar.Imagem = file.FileName;
+            }
+
+            novoPostar.Legenda = form["Legenda"];
+           
+            postModel.Create(novoPostar);
+            
+           
             return LocalRedirect("~/Feed");
+
         }
 
         [Route("Comentario")]

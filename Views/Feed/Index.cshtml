@@ -1,8 +1,9 @@
 @model Postar
 @{
     ViewData["Tittle"] = "Feed";
+    Layout = "_Layout";
 }
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="~/css/style.css">
 <header class="cabeca">
         <div class="cabecalho">
 
@@ -26,64 +27,8 @@
             </div>
         </div>
     </header>
-    <br><br><br>
-    
-<form method="POST" action='@Url.Action("Cadastrar")' >
+    <br><br><br>    
 
-    <label> Legenda </label>
-    <input type="text" name="Legenda" />
-
-    <label> Imagem </label>
-    <input type="file" name="Imagem" />
-
-    <button type="submit"> Publicar </button>
-
-</form>
-
-<table>
-
-    <thead>
-        <th>Legenda</th>
-        <th>Foto</th>
-    </thead>
-    <tbody>
-        @foreach (Postar item in ViewBag.Post)
-        {
-            <tr>
-                <td> @item.Legenda </td>
-                <td> @item.Imagem </td>
-            </tr>
-        }
-    </tbody>
-
-</table>
-
-<form method="POST" action='@Url.Action("Comentario")' >
-
-    <label> Comentar </label>
-    <input type="hidden" value="id">
-    <input type="text" name="Comentar" />
-
-    <button type="submit"> Publicar </button>
-
-</form>
-
-<table>
-
-    <thead>
-        <th>Publicar</th>
-    </thead>
-    <tbody>
-        @foreach (Comentarios item in ViewBag.Comentario)
-        {
-            <tr>
-                <td> @item.Comentario </td>
-            </tr>
-        }
-    </tbody>
-
-</table>
-<br><br><br>
     <main>
     <section class="tudo">
         
@@ -135,56 +80,67 @@
 
                     <div class="fotopostar">
                         <img src="img/thank-you 3.svg" alt="Yes, baby">
-                        <p>Postar</p>
+                        <button type="submit"> Postar </button>
                     </div>
                     
                     <div class="inputs">
-                        <input class="digite" type="text" placeholder="Digite a descrição da imagem...">
-                        <button class="escolhaimagem"> Escolha a imagem </button>
-                        <button class="butão"> Postar </button>
+                        <form method="POST" action='@Url.Action("Cadastrar")' enctype="multipart/form-data">
+
+                        <input class="digite" placeholder="Digite a descrição da imagem..." type="text" name="Legenda" />
+
+                        <label> Imagem </label>
+                        <input class="escolhaimagem" type="file" name="Imagem" />
+
+                        <button class="butão" type="submit"> Postar </button>
+
+                        </form>
                     </div>
                     
                 </div>
             </section>
             <br><br><br>
-            <section class="publi">
-
-                <div class="postador">
-                    <img src="img/gabigordo 2.png" alt="">
-                    
-                    <div>
-                        <p>gabigordo</p>
-                        <p>Flamengo, RJ</p>
-                    </div>
-                    
-                </div>
-
-                <img src="img/post-gabigordo 1.png" alt="">
-
-                <div class="likes">
-                    <a class="coraçaum" href="#"> <img src="img/heart.png" alt=""> </a>
-                    <a class="coraçaum" href="#"> <img src="img/Coment.png" alt=""> </a>
-                    <input class="comentariu" type="text" placeholder="Comentar...">
-                    <p>2077 Curtidas</p>
-                </div>
-
-                <div class="comentados">                 
-                    <div class="comentario">      
-                        <h4>gabigordo</h4>
-                        <p> #flamengo Amo vocês mil milhões </p>
-                    </div>
-                    <div class="comentario">      
-                        <h4>yes_baby</h4>
-                        <p> thank you </p>
-                    </div>
-                    <div class="comentario">      
-                        <h4>king_pele</h4>
-                        <p> Esses são bons de bola, entende? </p>
-                    </div>
-                </div>
-            </section>
             
-        </div>
+        @foreach (Postar item in ViewBag.Post)
+        {
+            <div class="publi">  
+                <img src="img/thank-you 2.svg" alt="tapa na ">
+                <div class="postador">
+                    <p>yes_baby</p>
+                    <p>Cyberpunk</p>        
+                    <div>
+                        <tr>
+                            <img class="img-do-post" src="~/img/Posts/@item.Imagem" width="500" height="320" />
+
+                            <div class="likes">
+                                
+                                <a class="coraçaum" href="#"> <img src="img/heart.png" alt=""> </a>
+                                <a class="coraçaum" href="#"> <img src="img/Coment.png" alt=""> </a>
+
+                                    <form method="POST" action='@Url.Action("Comentario")' >
+
+                                    <label class="comentariu" for="Comentar"> Comentar </label>
+                                    <input type="text" name="Comentario" id="Comentar" >
+
+                                    <button type="submit"> Comentar </button>
+
+                                    </form>
+                            
+                                <p>2077 Curtidas</p>
+                            </div>
+                            <div>
+                                <p> @item.Legenda </p>
+                                @foreach (Comentarios items in ViewBag.Comentario)
+                                {
+                                    <tr>
+                                        <p> @items.Comentario </p>
+                                    </tr>
+                                }
+                            </div>
+                        </tr>
+                    </div>
+                </div>  
+            </div>          
+        }            
         
         <div class="direita">
             

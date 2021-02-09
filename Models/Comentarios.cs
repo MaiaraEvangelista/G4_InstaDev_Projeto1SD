@@ -16,6 +16,8 @@ namespace G4_InstaDev_Projeto1SD.Models
             CreateFolderAndFile(PATH);
         }
 
+        Random numAleatorio = new Random();
+
         public string Prepare(Comentarios c)
         {
             return $"{c.IdComentario};{c.Comentario}";
@@ -23,21 +25,7 @@ namespace G4_InstaDev_Projeto1SD.Models
 
         public void Create(Comentarios c)
         {
-            var listaComentario = ReadAll();
-
-            Random aleatorioComentario = new Random();
-
-            if (listaComentario.Count > 0)
-            {
-                Random numeroAleatorioComentario = new Random();
-                int numeroInteiroComentario = numeroAleatorioComentario.Next();
-
-                c.IdComentario = numeroInteiroComentario;
-            } else 
-            {
-                c.IdComentario = 1;
-            }
-
+            c.IdComentario = numAleatorio.Next();
 
             string[] linhasComentario = { Prepare(c) };
             File.AppendAllLines(PATH, linhasComentario);

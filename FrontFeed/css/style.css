@@ -3,13 +3,14 @@
     padding: 0;
     margin: 0;
     border: 0;
-    background-color: #FAFAFA;
+    background-color: blue;
 }
 body{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    background-color: #fafafa;
+    /* background-color: #fafafa; */
+    background-color: lawngreen;
 }
 .cabeca{
 
@@ -141,12 +142,12 @@ body{
     background-color: #ffffff;
 }
 .retangulo{
-    /* background-color: brown; */
+    background-color: brown;
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
 }
 .fotinha{
     display: flex;
@@ -168,23 +169,24 @@ body{
     height: 750px;
     display: flex;
     /* align-items: center; */
-    /* background-color: blueviolet; */
+    background-color: blueviolet;
     justify-content: space-between;
     margin: 0 auto;
 
 }
 .retangulo a{
 
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
+    background-color: cadetblue;
 }
 
 .postar{
 
     width: 610px;
     height: 166px;
-    /* background-color: chocolate; */
+    background-color: chocolate;
     border: solid 1px #F1F1F1;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
 
 }
 .quadrado{
@@ -282,13 +284,15 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 13px;
     margin: 20px;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
+    background-color: blueviolet;
 }
 .postador img{
     margin-right: 12px;
 }
 .postador p{
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
+    background-color: darkred;
 }
 .likes{ 
     width: 100%;
@@ -297,49 +301,62 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 13px;
     margin: 10px;
-    background-color: #ffffff;
-    /* background-color: red; */
+    /* background-color: #ffffff; */
+    background-color: red; 
 }
 .likes p{
     padding-left: 13px;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
+    background-color: indigo;
 }
 .likes a{
     justify-content: space-between;
     width: 900px;
     padding-left: 15px;
     text-decoration: none;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
+    background-color: coral;
+}
+.comentariu{
+    background-color: burlywood;
 }
 .likes input{
     border-bottom: solid 2px #F1F1F1;
     margin-left: 15px;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
+    background-color: cornflowerblue;
     color: #f1f1f1;
 }
 .publi{
     border: solid 1px #F1F1F1;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
+    background-color:indigo;
+    display: flex;
+    flex-direction: column;
 }
 .comentados{
     width: 600px;
     height: 70px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 13px;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
+    background-color: crimson;
     margin: 20px;
     justify-content: space-between;
 }
 .comentario{
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
     display: flex;
+    flex-direction: row;
 }
 .comentario h4{
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
+    background-color: cyan;
     margin-right: 7px;
 }
 .comentario p{
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
+    background-color: darkorchid;
 }
