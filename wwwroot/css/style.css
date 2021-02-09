@@ -317,8 +317,8 @@ body{
 }
 .publi{
     border: solid 1px #F1F1F1;
-    /* background-color: #ffffff; */
-    background-color: chartreuse;
+    background-color: #ffffff;
+    /* background-colorgb(18, 26, 11)use; */
     display: flex;
     flex-direction: column;
 }
